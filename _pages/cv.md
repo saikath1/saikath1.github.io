@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download a PDF of my CV](http://saikath1.github.io/files/Bhattacharya_CV.pdf)
+[Click here to download a PDF of my CV](http://saikath1.github.io/files/Bhattacharya_resume_210.pdf)
 
 [Click here to download a PDF of my Resume](http://saikath1.github.io/files/Saikath_resume_short.pdf)
 <body>
