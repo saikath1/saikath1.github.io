@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Saikath Bhattacharya. I am an incoming Assistant Professor (Fall 2022) in the Electrical Engineering and Computer Science Department at the Milwaukee School of Engineering. Before that I was postdoctoral research scholar at the [Science of Security Lablet](https://research.csc.ncsu.edu/security/lablet/) at the North Carolina State University.  I completed my PhD from the [Dependable Software and Systems Laboratory](https://lfiondella.sites.umassd.edu/). My thesis advisor was [Dr. Lance Fiondella](https://www.umassd.edu/directory/lfiondella/) at the [University of Massachusetts, Dartmouth](https://www.umassd.edu/engineering/ece/). 
+My name is Saikath Bhattacharya. I am an Assistant Professor in the Electrical Engineering and Computer Science Department at the Milwaukee School of Engineering. Before that I was postdoctoral research scholar at the [Science of Security Lablet](https://research.csc.ncsu.edu/security/lablet/) at the North Carolina State University.  I completed my PhD from the [Dependable Software and Systems Laboratory](https://lfiondella.sites.umassd.edu/). My thesis advisor was [Dr. Lance Fiondella](https://www.umassd.edu/directory/lfiondella/) at the [University of Massachusetts, Dartmouth](https://www.umassd.edu/engineering/ece/). 
 
 I graduated with top 5% in the class with a Master's of Technology  from the Kalinga Institute of Industrial Technology (KIIT) in Communication Systems in 2011 and with a Bachelor's of Engineering from Nagpur University in 2009. From 2011-2014, I was a Lecturer at School of Electronics, KIIT.
 
