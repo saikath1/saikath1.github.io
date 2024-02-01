@@ -10,11 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download a PDF of my CV](http://saikath1.github.io/files/Bhattacharya_resume_210.pdf)
+[Click here to download a PDF of my CV](http://saikath1.github.io/files/Bhattacharya_Resume.pdf)
 
-[Click here to download a PDF of my Resume](http://saikath1.github.io/files/Saikath_resume_short.pdf)
+
 <body>
    <h2>Resume</h2>
-   <iframe src="/files/Saikath_resume_short.pdf" width="100%" height="800px">
+   <iframe src="/files/Bhattacharya_Resume.pdf" width="100%" height="800px">
    </iframe>
  </body>
