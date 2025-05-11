@@ -1,8 +1,6 @@
 # Saikath Bhattacharya
 
 🌐 [saikath1.github.io](https://saikath1.github.io)  
-✉️ saikath.bhattacharya@gmail.com  
-
 ---
 
 ## Education
