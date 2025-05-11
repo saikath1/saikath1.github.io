@@ -2,5 +2,5 @@
 
 Feel free to reach out:
 
-- 📧 Email: your.email@example.com
+- 📧 Email: saikath.bhattacharya@gmail.com
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
