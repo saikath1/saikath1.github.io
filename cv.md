@@ -88,7 +88,7 @@
 - *ISSAT RQD 2024*, *RAMS 2020*, *HotSoS 2022*  
 - *IEEE PHM 2019*, *AHS 2015–2017*
 
-[Google Scholar](scholar.google.com/citations?user=D2nEigIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=D2nEigIAAAAJ&hl=en)
 
 ---
 
