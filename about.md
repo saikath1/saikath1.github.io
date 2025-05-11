@@ -1,5 +1,3 @@
 # About Me
 
-This is the **About** page written in Markdown.
-
-You can edit this file (`about.md`) to update your About content.
+![ Erdős Number](https://github.com/saikath1/saikath1.github.io/blob/main/erdos_number.png)
