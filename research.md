@@ -2,7 +2,8 @@
 
 Welcome to **Secured Software Systems Research Lab**.
 
-My research lies at the intersection of **software engineering**, **cybersecurity**, and **systems engineering**, with a focus on improving the **security**, **reliability**, and **resilience** of software systems. I develop mathematical models, empirical methods, and system-level approaches applicable to domains like **embedded systems** and **medical devices**.
+My research lies at the intersection of **software engineering**, **cybersecurity**, and **systems engineering**, with a focus on improving the **security**, **reliability**, and **resilience** of software systems. I develop mathematical models, empirical methods, and system-level approaches applicable to domains like **embedded systems**.
+
 
 This interdisciplinary work draws from:
 - Statistical modeling
