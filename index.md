@@ -17,8 +17,8 @@ layout: default
   <p>I’m passionate about collaboration, mentorship, and exploring new applications of trustworthy software systems. Let’s connect if you’re interested in research partnerships, student engagement, or impactful innovation in secure software engineering.</p>
 </div>
 
-<div style="flex: 0 0 200px;">
-  <img src="profile.jpg" alt="Saikath Bhattacharya" style="width: 100%; border-radius: 50%;">
+<div style="flex: 0 0 100px;">
+  <img src="profile.jpg" alt="Saikath Bhattacharya" style="width: 100%; border-radius: 20%;">
 </div>
 
 </div>
