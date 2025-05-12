@@ -2,7 +2,7 @@
 ## Publications [↗ Google Scholar](https://scholar.google.com/citations?user=D2nEigIAAAAJ&hl=en&oi=ao)
 
 ### Works in Preparation
-1. **S. Bhattacharya**, *Reliability and Resiliency Analysis of the Unintentional Failure Modes in Machine Learning Systems*, In preparation for   IEEE RAMS 2026  .
+1. **S. Bhattacharya**, *Reliability and Resiliency Analysis of the Unintentional Failure Modes in Machine Learning Systems*, In preparation for   IEEE RAMS 2026.
 <!-- - Ian Kirkpatrik, **S. Bhattacharya**, M.P. Singh, L. Williams, *Secured Release through an Agile Security Growth Framework*, In preparation. -->
 2. **S. Bhattacharya**, *An Empirical Security Analysis of Software Supply Chain Attacks on Open Source IoT-Embedded System Projects*, In preparation.
 3. **S. Bhattacharya**, T. Wandji, L. Fiondella, *Drone Cyber Security: Assurance Methods and Standards*, In submission to   Journal of Transportation Security  .
