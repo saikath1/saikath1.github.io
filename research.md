@@ -1,5 +1,13 @@
 # Research
 
+Welcome to **Secured Software Systems Research Group ($S^3$) S-cube 📦**. 
+
+This page provides an overview of my research interests and areas of focus. My research is centered around the intersection of software engineering, cybersecurity, and systems engineering, with a particular emphasis on enhancing the security and reliability of software systems.
+
+I am a researcher in the field of software engineering, with a focus on security and reliability. My work is primarily concerned with the development of mathematical models and techniques to improve the security and reliability of software systems. I have a strong interest in the application of these models to real-world problems, particularly in the context of embedded systems and medical devices.
+
+
+
 My research focuses on the discovery, modeling, analysis, and application of mathematical concepts to enhance system and software security, as well as the testing and evaluation of secure systems.
 
 This work is inherently interdisciplinary, integrating insights from various subfields of computer science, including software engineering, cybersecurity, and systems engineering. Additionally, it draws upon methodologies and principles from disciplines such as statistical modeling, reliability theory, and systems engineering. While the interdisciplinary nature of this research increases the initial complexity and effort required, it also ensures that the outcomes are broadly applicable and hold significant value across multiple domains.
