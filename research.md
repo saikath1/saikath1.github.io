@@ -1,15 +1,51 @@
 # Research
 
-## Open Source Software Supply Chain Attacks on Embedded  Systems Software
+My research focuses on the discovery, modeling, analysis, and application of mathematical concepts to enhance system and software security, as well as the testing and evaluation of secure systems.
 
-## Software Security Testing
+This work is inherently interdisciplinary, integrating insights from various subfields of computer science, including software engineering, cybersecurity, and systems engineering. Additionally, it draws upon methodologies and principles from disciplines such as statistical modeling, reliability theory, and systems engineering. While the interdisciplinary nature of this research increases the initial complexity and effort required, it also ensures that the outcomes are broadly applicable and hold significant value across multiple domains.
 
-## Software Reliability Growth Models
+A key objective of my research is to engage a diverse audience. In addition to publishing in specialized technical venues, I have actively sought to disseminate my findings through broader forums that cater to the wider computer science community. This approach aims to maximize the impact and accessibility of my work, fostering dialogue and collaboration across disciplines.
 
-## Prognostics and Health Management
+Here are some of the key areas of my research:
+### Security and Privacy in Medical Devices
+Security and privacy in medical devices are critical concerns due to the increasing reliance on connected devices in healthcare. Medical devices, such as pacemakers, insulin pumps, and imaging systems, often collect and transmit sensitive patient data, making them attractive targets for cyberattacks.
+
+### Open Source Software Supply Chain Attacks on Embedded  Systems Software
+
+Open source software supply chain attacks on embedded systems software refer to the exploitation of vulnerabilities in open source components used in embedded systems. 
+
+The increasing reliance on open source software in embedded systems has made them attractive targets for attackers. Supply chain attacks can occur at various stages, including the development, distribution, and deployment of software components. Attackers may inject malicious code into open source libraries, compromise build processes, or exploit vulnerabilities in third-party dependencies.
 
 
-## Tradespace Exploration
+
+### Software Security Testing
+
+Software security testing is a critical aspect of ensuring the security and reliability of software systems. It involves the systematic evaluation of software applications to identify vulnerabilities, weaknesses, and potential threats that could be exploited by malicious actors. The goal of software security testing is to enhance the overall security posture of software applications and protect sensitive data from unauthorized access or breaches.
+
+In the context of embedded systems, software security testing is particularly important due to the unique challenges posed by the integration of hardware and software components. Embedded systems often operate in resource-constrained environments, making them susceptible to various security risks, including unauthorized access, data tampering, and denial-of-service attacks.
+The complexity of embedded systems, combined with the increasing sophistication of cyber threats, necessitates a comprehensive approach to software security testing. This includes not only identifying vulnerabilities in the software code but also assessing the security of the underlying hardware and communication interfaces.
+
+Software security testing encompasses various techniques and methodologies, including static analysis, dynamic analysis, penetration testing, and vulnerability scanning. These approaches help identify security flaws in the software code, configuration, and runtime behavior. By conducting thorough security testing throughout the software development lifecycle, organizations can proactively address security issues, reduce the risk of cyberattacks, and ensure compliance with industry standards and regulations.
+
+
+### Software Reliability Growth Models
+
+Software reliability growth models (SRGMs) are mathematical models used to predict and analyze the reliability of software systems over time. These models are particularly useful in the context of software testing and maintenance, as they help estimate the number of remaining defects, the rate of defect discovery, and the overall reliability of the software as it evolves.
+SRGMs are based on the assumption that software reliability improves as defects are discovered and fixed during the testing process. By analyzing historical defect data, these models can provide insights into the software's reliability growth, allowing developers and project managers to make informed decisions about testing strategies, release schedules, and resource allocation.
+
+
+
+### Prognostics and Health Management
+Prognostics and Health Management (PHM) is a field that focuses on the prediction of system health and performance over time. It involves the use of data analytics, machine learning, and statistical methods to monitor and assess the condition of systems, enabling proactive maintenance and decision-making.
+
+
+PHM is particularly relevant in industries such as aerospace, automotive, and manufacturing, where the reliability and safety of systems are critical. The goal of PHM is to minimize downtime, reduce maintenance costs, and improve overall system performance by accurately predicting when failures are likely to occur and implementing appropriate maintenance strategies.
+
+### Tradespace Exploration
+
+Tradespace exploration is a systematic approach to evaluating and analyzing the design space of complex systems. It involves exploring various design alternatives, trade-offs, and performance metrics to identify the most suitable solutions for a given set of requirements and constraints.
+Tradespace exploration is commonly used in engineering and systems design, particularly in fields such as aerospace, defense, and automotive. It helps decision-makers understand the implications of different design choices, assess risks, and make informed decisions based on a comprehensive understanding of the design space.
+
 
 
 
