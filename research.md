@@ -1,6 +1,6 @@
 # Research
 
-Welcome to **Secured Software Systems Research Group ($S^3$) S-cube 📦**. 
+Welcome to **Secured Software Systems Research Lab**. 
 
 This page provides an overview of my research interests and areas of focus. My research is centered around the intersection of software engineering, cybersecurity, and systems engineering, with a particular emphasis on enhancing the security and reliability of software systems.
 

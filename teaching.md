@@ -2,10 +2,10 @@
 
 ## Milwaukee School of Engineering — *Assistant Professor*
 
-- **CSC 2210 Procedural and Object Oriented C++**
+- **CSC 2210 Procedural and Object Oriented C++**\
 *Spring 2025, Spring 2023*
 
-- **swe 2721 Introduction to Software Testing++**
+- **swe 2721 Introduction to Software Testing** \
 *Spring 2025, Spring 2024, Spring 2023*
 - **CSC-3511 Security and Networking**  
   *Fall 2024*
