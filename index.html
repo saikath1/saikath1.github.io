@@ -2,40 +2,45 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Welcome</title>
   <link rel="stylesheet" href="style.css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-  <!-- Google tag (gtag.js) -->
+  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9H2MJK7DK"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){ dataLayer.push(arguments); }
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-G9H2MJK7DK');
   </script>
 
   <style>
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
+      font-family: Arial, sans-serif;
       display: flex;
       min-height: 100vh;
     }
 
     header {
-      position: absolute;
+      position: fixed;
       top: 0;
+      left: 0;
       width: 100%;
       background-color: #fff;
-      padding: 10px;
+      padding: 10px 20px;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
       z-index: 10;
     }
 
+    header h1 {
+      margin: 0;
+    }
+
     nav {
-      margin-top: 10px;
+      margin-top: 5px;
     }
 
     nav a {
@@ -56,31 +61,54 @@
     .sidebar img {
       width: 100%;
       border-radius: 50%;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
 
     .main-content {
       flex: 1;
       padding: 40px;
+      padding-top: 120px;
       overflow-y: auto;
-      margin-top: 100px;
     }
 
     .markdown-body {
       max-width: 800px;
+      margin: auto;
     }
 
     footer {
-      position: absolute;
-      bottom: 10px;
-      left: 270px;
+      position: relative;
+      padding: 20px;
+      text-align: center;
       font-size: 0.9em;
+      color: #666;
+      background-color: #f0f0f0;
+      width: 100%;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        width: 100%;
+        text-align: center;
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .main-content {
+        padding: 20px;
+        padding-top: 140px;
+      }
     }
   </style>
 </head>
 
 <body>
   <header>
-    <h1>Welcome</h1>
+    <h1>Welcome!</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="about.html">About</a>
@@ -94,16 +122,16 @@
   </header>
 
   <div class="sidebar">
-    <img src="profile.jpg" alt="Profile Picture">
+    <img src="profile.jpg" alt="Profile Picture" />
   </div>
 
   <div class="main-content">
     <div id="content" class="markdown-body">Loading content...</div>
   </div>
 
-  <!-- <footer>
+  <footer>
     <p>&copy; 2025 Saikath Bhattacharya.</p>
-  </footer> -->
+  </footer>
 
   <script>
     fetch('index.md')
