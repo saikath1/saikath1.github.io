@@ -30,6 +30,9 @@ Modeling software fault discovery and reliability improvement over time to infor
 ### Prognostics and Health Management (PHM)
 Using predictive analytics and ML to monitor and assess software/system health for proactive maintenance and fault prediction.
 
+For more details on my research, please refer to the following areas
+[PHM](https://saikath1.github.io/saikath1/phm.html)
+
 ### Tradespace Exploration
 Evaluating design alternatives and trade-offs in complex systems to guide decision-making under uncertainty, especially in critical domains.
 
