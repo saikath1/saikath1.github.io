@@ -2,20 +2,82 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Welcome </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome</title>
   <link rel="stylesheet" href="style.css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G9H2MJK7DK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-G9H2MJK7DK');
-</script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9H2MJK7DK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-G9H2MJK7DK');
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      display: flex;
+      min-height: 100vh;
+    }
+
+    header {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      background-color: #fff;
+      padding: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      z-index: 10;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    .sidebar {
+      margin-top: 100px;
+      width: 250px;
+      background-color: #f7f7f7;
+      padding: 20px;
+      border-right: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    .sidebar img {
+      width: 100%;
+      border-radius: 50%;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 40px;
+      overflow-y: auto;
+      margin-top: 100px;
+    }
+
+    .markdown-body {
+      max-width: 800px;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 10px;
+      left: 270px;
+      font-size: 0.9em;
+    }
+  </style>
 </head>
+
 <body>
   <header>
     <h1>Welcome</h1>
@@ -30,12 +92,19 @@
       <a href="contact.html">Contact</a>
     </nav>
   </header>
-  <section id="content">
-    <p>Loading content...</p>
-  </section>
+
+  <div class="sidebar">
+    <img src="profile.jpg" alt="Profile Picture">
+  </div>
+
+  <div class="main-content">
+    <div id="content" class="markdown-body">Loading content...</div>
+  </div>
+
   <footer>
     <p>&copy; 2025 Saikath Bhattacharya.</p>
   </footer>
+
   <script>
     fetch('index.md')
       .then(response => response.text())
