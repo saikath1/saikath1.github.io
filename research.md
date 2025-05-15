@@ -1,17 +1,20 @@
 # Research
 
-Welcome to **Secured Software Systems Research Lab**.
+Welcome to **Secured Software Systems Research Lab (S-Cube)**.
 
 My research lies at the intersection of **software engineering**, **cybersecurity**, and **systems engineering**, with a focus on improving the **security**, **reliability**, and **resilience** of software systems. I develop mathematical models, empirical methods, and system-level approaches applicable to domains like **embedded systems**.
 
 
 This interdisciplinary work draws from:
+
 - Statistical modeling
 - Reliability theory
-- Software and systems engineering
+- Software Engineering
+- Cybersecurity
+- Systems engineering
 - Security testing and validation
 
-A key goal is to engage a broad audience, fostering impact through both technical publications and cross-disciplinary collaborations.
+A key goal of the lab is to engage with a broad audience, fostering impact through both technical publications and cross-disciplinary collaborations.
 
 ## Research Focus Areas
 
@@ -26,6 +29,9 @@ Techniques to identify vulnerabilities and strengthen security assurance through
 
 ### Software Reliability Growth Models (SRGMs)
 Modeling software fault discovery and reliability improvement over time to inform release planning and quality assurance.
+
+### Reliability Theory
+Developing models and methods to assess and enhance the reliability of software systems, particularly in safety-critical applications.
 
 ### Prognostics and Health Management (PHM)
 Using predictive analytics and ML to monitor and assess software/system health for proactive maintenance and fault prediction.
