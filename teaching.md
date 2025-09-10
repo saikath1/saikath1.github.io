@@ -1,5 +1,10 @@
 # Courses Taught
 
+## Illinois State University -*Assistant Professor of Cybersecurity*
+
+- **IT250 Fundamentals of Information Assurance and Security+**\
+*Fall 2025*
+
 ## Milwaukee School of Engineering — *Assistant Professor*
 
 - **CSC 2210 Procedural and Object Oriented C++**\

@@ -1,5 +1,8 @@
 # News
 
+## Paper accepted in journal first track of ESEMW 2025
+
+## Paper accepted in IEEE Computers 2025
 
 ##  Paper Published in Communications of the ACM 
 

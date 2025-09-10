@@ -19,8 +19,12 @@
 
 ## Academic Appointments
 
+- **Assistant Professor of Cybersecurity**  
+  *Illinois State University, IL* (2025–Present)
+
+
 - **Assistant Professor**  
-  *Milwaukee School of Engineering, WI* (2022–Present)
+  *Milwaukee School of Engineering, WI* (2022–2025)
 
 - **Postdoctoral Research Scholar**  
   *North Carolina State University, NSA Science of Security Lablet* (2021–2022)
@@ -33,8 +37,8 @@
 ## Research Interests
 
 - Software & System Reliability, Maintainability, and Prognostics  
-<!-- - Software Security and Vulnerability Testing  
-- Empirical Software Engineering & Security for Embedded Systems   -->
+- Software Security and Vulnerability Testing  
+- Empirical Software Engineering & Security for Embedded Systems  
 
 ---
 
@@ -43,8 +47,8 @@
 - **Direct Supply Innovation Center**  
   Software Testing & Refactoring, 2022 ($23,750)
 
-<!-- - **U.S. Army Research Lab RAP**  
-  Tradespace + PHM for RAMS+C, 2019–2020 ($32,000) -->
+- **U.S. Army Research Lab RAP**  
+  Tradespace + PHM for RAMS+C, 2019–2020 ($32,000)
 
 ---
 
@@ -92,8 +96,8 @@
 ## Certifications
 
 - Lean Six Sigma Green Belt – IISE  
-<!-- - Google Cybersecurity Certification – 2024  
-- Web & Internet Security – Wenliang Du (Udemy) -->
+- Google Cybersecurity Certification – 2024  
+- Web & Internet Security – Wenliang Du (Udemy)
 
 ---
 
@@ -114,8 +118,8 @@
 ## Contact & Collaboration
 
 Open to research collaborations in:
-<!-- - Software Security & Testing  
+- Software Security & Testing  
 - Cyber-Physical Systems Reliability  
-- ML Failure Modeling -->
+- ML Failure Modeling
 
 ---
