@@ -70,12 +70,12 @@ Ultimately, this research vision aims to advance a unifying question:
  -->
 
 
-
-These are IEEE/ACM’s core research communities—each dedicated to a domain of computing. 
+---
+#  IEEE/ACM’s core research communities
 
  There are over 35 active ACM Special Interest Groups (SIGs), including:
 
-# ACM and IEEE Major Conferences and Journals
+## ACM and IEEE Major Conferences and Journals
 
 ##  ACM Special Interest Groups (SIGs)
 
