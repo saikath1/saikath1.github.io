@@ -19,8 +19,8 @@
 
 ## Academic Appointments
 
-- **Assistant Professor of Cybersecurity**  
-  *Illinois State University, IL* (2025–Present)
+- **Assistant Professor**  
+ 
 
 
 - **Assistant Professor**  
@@ -123,3 +123,4 @@ Open to research collaborations in:
 - ML Failure Modeling
 
 ---
+
