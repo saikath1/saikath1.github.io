@@ -42,7 +42,7 @@ Evaluating design alternatives and trade-offs in complex systems to guide decisi
 
 ---
 
-For a detailed overview of our research vision, thrusts, and relevant communities, see [Research Areas](#research-areas) below.
+For a detailed overview of our research vision, thrusts, students, grants, and papers, visit the [S-Cube Lab](s-cube.html) page.
 
 ---
 *For more information or collaboration inquiries, feel free to reach out.*

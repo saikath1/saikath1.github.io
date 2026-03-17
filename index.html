@@ -229,8 +229,10 @@
       <a href="index.html">Home</a>
       <a href="about.html">About</a>
       <a href="research.html">Research</a>
+      <a href="s-cube.html">S-Cube Lab</a>
       <a href="Teaching.html">Teaching</a>
       <a href="publications.html">Publications</a>
+      <a href="activities.html">Service</a>
       <a href="cv.html">CV</a>
       <a href="news.html">News</a>
       <a href="contact.html">Contact</a>
@@ -239,7 +241,7 @@
 
   <div class="content-wrapper">
     <div class="sidebar">
-      <img src="profile.jpg" alt="Profile Picture of Saikath Bhattacharya" />
+      <img src="figures/profile.jpg" alt="Profile Picture of Saikath Bhattacharya" />
     </div>
 
     <div class="main-content">
@@ -259,12 +261,13 @@
         document.getElementById('content').innerHTML = marked.parse(text);
       });
 
-    const quotes = [
-      
-      "I don't mind being bone and feathers. I just want to know what I can do in the air and what I can't, that's all. I just want to know how far I can fly. Jonathan Livingston Seagull By Richard Bach"
-    ];
-    document.getElementById('quote-box').textContent =
-      quotes[Math.floor(Math.random() * quotes.length)];
+    fetch('quotes.json')
+      .then(response => response.json())
+      .then(quotes => {
+        const q = quotes[Math.floor(Math.random() * quotes.length)];
+        const box = document.getElementById('quote-box');
+        box.innerHTML = '<blockquote>"' + q.text + '"<br><cite>— ' + q.author + '</cite></blockquote>';
+      });
   </script>
 </body>
 </html>

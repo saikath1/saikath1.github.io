@@ -1,0 +1,4034 @@
+[
+  {
+    "text": "A lesson without pain is meaningless. For you cannot gain something without sacrificing something in return.",
+    "author": "Edward Elric — Fullmetal Alchemist"
+  },
+  {
+    "text": "The world is not beautiful, therefore it is.",
+    "author": "Kino — Kino's Journey"
+  },
+  {
+    "text": "If you don't take risks, you can't create a future.",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "People's lives don't end when they die. It ends when they lose faith.",
+    "author": "Itachi Uchiha — Naruto"
+  },
+  {
+    "text": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger.",
+    "author": "Gildarts Clive — Fairy Tail"
+  },
+  {
+    "text": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+    "author": "Kenshin Himura — Rurouni Kenshin"
+  },
+  {
+    "text": "The only thing we're allowed to do is believe that we won't regret the choice we made.",
+    "author": "Levi Ackerman — Attack on Titan"
+  },
+  {
+    "text": "When you give up, that's when the game ends.",
+    "author": "Mitsuyoshi Anzai — Slam Dunk"
+  },
+  {
+    "text": "Knowing sorrow is not terrifying. What is terrifying is knowing you can't go back to the happiness you could have.",
+    "author": "Matsumoto Rangiku — Bleach"
+  },
+  {
+    "text": "It's not the face that makes someone a monster; it's the choices they make with their lives.",
+    "author": "Naruto Uzumaki — Naruto"
+  },
+  {
+    "text": "Power comes in response to a need, not a desire. You have to create that need.",
+    "author": "Goku — Dragon Ball Z"
+  },
+  {
+    "text": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on their own.",
+    "author": "Jiraiya — Naruto"
+  },
+  {
+    "text": "Being weak is nothing to be ashamed of. Staying weak is.",
+    "author": "Fuegoleon Vermillion — Black Clover"
+  },
+  {
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "We suffer more often in imagination than in reality.",
+    "author": "Seneca"
+  },
+  {
+    "text": "The obstacle is the way.",
+    "author": "Marcus Aurelius — Meditations"
+  },
+  {
+    "text": "No man ever steps in the same river twice, for it is not the same river and he is not the same man.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "Waste no more time arguing about what a good man should be. Be one.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "The mind is everything. What you think, you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "When I let go of what I am, I become what I might be.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "If you are depressed you are living in the past. If you are anxious you are living in the future. If you are at peace you are living in the present.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "The soul becomes dyed with the color of its thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha"
+  },
+  {
+    "text": "The wound is the place where the Light enters you.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+    "author": "Rumi"
+  },
+  {
+    "text": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+    "author": "Rumi"
+  },
+  {
+    "text": "What you seek is seeking you.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "text": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien — The Lord of the Rings"
+  },
+  {
+    "text": "It is our choices that show what we truly are, far more than our abilities.",
+    "author": "Albus Dumbledore — Harry Potter"
+  },
+  {
+    "text": "There is some good in this world, and it's worth fighting for.",
+    "author": "Samwise Gamgee — The Lord of the Rings"
+  },
+  {
+    "text": "All we have to decide is what to do with the time that is given us.",
+    "author": "Gandalf — The Lord of the Rings"
+  },
+  {
+    "text": "It is not the critic who counts, but the man who is actually in the arena.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "The only way out of the labyrinth of suffering is to forgive.",
+    "author": "John Green — Looking for Alaska"
+  },
+  {
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald — The Great Gatsby"
+  },
+  {
+    "text": "Everything you can imagine is real.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Will Durant (on Aristotle)"
+  },
+  {
+    "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "I am not what happened to me. I am what I choose to become.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "The cave you fear to enter holds the treasure you seek.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "One must imagine Sisyphus happy.",
+    "author": "Albert Camus — The Myth of Sisyphus"
+  },
+  {
+    "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "Freedom is what you do with what's been done to you.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "The most beautiful experience we can have is the mysterious.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd"
+  },
+  {
+    "text": "The world breaks everyone, and afterward, many are strong at the broken places.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "text": "Believe in yourself. Not in the you who believes in me. Not the me who believes in you. Believe in the you who believes in yourself.",
+    "author": "Kamina — Gurren Lagann"
+  },
+  {
+    "text": "If you can't do something, then don't. Focus on what you can do.",
+    "author": "Shiroe — Log Horizon"
+  },
+  {
+    "text": "Sometimes I do feel like I'm a failure. Like there's no hope for me. But even so, I'm not gonna give up. Ever!",
+    "author": "Izuku Midoriya — My Hero Academia"
+  },
+  {
+    "text": "A dropout will beat a genius through hard work.",
+    "author": "Rock Lee — Naruto"
+  },
+  {
+    "text": "You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want.",
+    "author": "Ging Freecss — Hunter x Hunter"
+  },
+  {
+    "text": "Living is anxiety. Don't think you can get away without it.",
+    "author": "Rintaro Okabe — Steins;Gate"
+  },
+  {
+    "text": "Even if you've only got a 1% chance of winning, but you wish for it 100% then it's already a reality.",
+    "author": "Yoh Asakura — Shaman King"
+  },
+  {
+    "text": "You can't sit around envying other people's worlds. You have to go out and change your own.",
+    "author": "Shinichi Izumi — Parasyte"
+  },
+  {
+    "text": "I see now that the circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are.",
+    "author": "Mewtwo — Pokémon"
+  },
+  {
+    "text": "If your desire is to do what's right for others, you first have to know what's right for yourself.",
+    "author": "Kirito — Sword Art Online"
+  },
+  {
+    "text": "The moment you think of giving up, think of the reason why you held on so long.",
+    "author": "Natsu Dragneel — Fairy Tail"
+  },
+  {
+    "text": "No matter how deep the night, it always turns to day, eventually.",
+    "author": "Brook — One Piece"
+  },
+  {
+    "text": "To know what is right and choose to ignore it is the act of a coward.",
+    "author": "Kakashi Hatake — Naruto"
+  },
+  {
+    "text": "The true measure of a shinobi is not how he lives but how he dies.",
+    "author": "Jiraiya — Naruto"
+  },
+  {
+    "text": "Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
+    "author": "Joel A. Barker"
+  },
+  {
+    "text": "The impediment to action advances action. What stands in the way becomes the way.",
+    "author": "Marcus Aurelius — Meditations"
+  },
+  {
+    "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+    "author": "Viktor Frankl"
+  },
+  {
+    "text": "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances.",
+    "author": "Viktor Frankl"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "text": "Be like water making its way through cracks. Be formless, shapeless, like water.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "I fear not the man who has practiced 10,000 kicks once, but the man who has practiced one kick 10,000 times.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "An arrow can only be shot by pulling it backward. So when life is dragging you back with difficulties, it means it's going to launch you into something great.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "When you want something, all the universe conspires in helping you to achieve it.",
+    "author": "Paulo Coelho — The Alchemist"
+  },
+  {
+    "text": "Patience is not passive waiting. Patience is active acceptance of the process required to attain your goals and dreams.",
+    "author": "Ray Davis"
+  },
+  {
+    "text": "Walk as if you are kissing the Earth with your feet.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "Life can only be understood backwards; but it must be lived forwards.",
+    "author": "Søren Kierkegaard"
+  },
+  {
+    "text": "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+    "author": "Robert M. Pirsig"
+  },
+  {
+    "text": "The bamboo that bends is stronger than the oak that resists.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "text": "What the caterpillar calls the end of the world, the master calls a butterfly.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Smooth seas do not make skillful sailors.",
+    "author": "African Proverb"
+  },
+  {
+    "text": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "author": "Charles Darwin"
+  },
+  {
+    "text": "All the darkness in the world cannot extinguish the light of a single candle.",
+    "author": "Francis of Assisi"
+  },
+  {
+    "text": "The more you know yourself, the more clarity there is. Self-knowledge has no end.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "text": "Cleverness is a gift. Kindness is a choice.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "There is nothing impossible to they who will try.",
+    "author": "Alexander the Great"
+  },
+  {
+    "text": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu — Tao Te Ching"
+  },
+  {
+    "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+    "author": "Buddha — Dhammapada"
+  },
+  {
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Surpass the impossible and kick reason to the curb!",
+    "author": "Simon — Gurren Lagann"
+  },
+  {
+    "text": "A place where someone still thinks about you is a place you can call home.",
+    "author": "Jiraiya — Naruto"
+  },
+  {
+    "text": "People become stronger because they have memories they can't forget.",
+    "author": "Tsunade — Naruto"
+  },
+  {
+    "text": "The night is darkest just before the dawn. But I promise you, the dawn is coming.",
+    "author": "Harvey Dent — The Dark Knight"
+  },
+  {
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "text": "The struggle you're in today is developing the strength you need for tomorrow.",
+    "author": "Robert Tew"
+  },
+  {
+    "text": "Stars can't shine without darkness.",
+    "author": "D.H. Sidebottom"
+  },
+  {
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius — Meditations"
+  },
+  {
+    "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Confine yourself to the present.",
+    "author": "Marcus Aurelius — Meditations"
+  },
+  {
+    "text": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "How much more grievous are the consequences of anger than the causes of it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Begin at once to live, and count each separate day as a separate life.",
+    "author": "Seneca"
+  },
+  {
+    "text": "He who is brave is free.",
+    "author": "Seneca"
+  },
+  {
+    "text": "Difficulties strengthen the mind, as labor does the body.",
+    "author": "Seneca"
+  },
+  {
+    "text": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca"
+  },
+  {
+    "text": "Retire into yourself as much as you can. Associate with those who are likely to improve you.",
+    "author": "Seneca"
+  },
+  {
+    "text": "It is not that I'm so smart, it's just that I stay with problems longer.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca"
+  },
+  {
+    "text": "It is not the man who has too little, but the man who craves more, that is poor.",
+    "author": "Seneca"
+  },
+  {
+    "text": "Make the best use of what is in your power, and take the rest as it happens.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "Seek not the good in external things; seek it in yourselves.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "Don't explain your philosophy. Embody it.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "First say to yourself what you would be; then do what you have to do.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "Wealth consists not in having great possessions, but in having few wants.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "No great thing is created suddenly.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "The key is to keep company only with people who uplift you, whose presence calls forth your best.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
+    "author": "Epictetus"
+  },
+  {
+    "text": "He who knows others is wise. He who knows himself is enlightened.",
+    "author": "Lao Tzu — Tao Te Ching"
+  },
+  {
+    "text": "Nature does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "Life is a series of natural and spontaneous changes. Don't resist them.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "To the mind that is still, the whole universe surrenders.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "Those who know do not speak. Those who speak do not know.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "The flame that burns twice as bright burns half as long.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "To be wronged is nothing, unless you continue to remember it.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Real knowledge is to know the extent of one's ignorance.",
+    "author": "Confucius"
+  },
+  {
+    "text": "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius"
+  },
+  {
+    "text": "The will to win, the desire to succeed, the urge to reach your full potential — these are the keys that will unlock the door to personal excellence.",
+    "author": "Confucius"
+  },
+  {
+    "text": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Before you embark on a journey of revenge, dig two graves.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "author": "Buddha"
+  },
+  {
+    "text": "What we think, we become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha"
+  },
+  {
+    "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+    "author": "Buddha"
+  },
+  {
+    "text": "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way.",
+    "author": "Buddha"
+  },
+  {
+    "text": "The tongue like a sharp knife, kills without drawing blood.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Without deviation from the norm, progress is not possible.",
+    "author": "Frank Zappa"
+  },
+  {
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "The higher we soar, the smaller we appear to those who cannot fly.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "One must still have chaos in oneself to be able to give birth to a dancing star.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "All truly great thoughts are conceived while walking.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "The secret for harvesting from existence the greatest fruitfulness and the greatest enjoyment is to live dangerously.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "The pendulum of the mind alternates between sense and nonsense, not between right and wrong.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Show me a sane man and I will cure him for you.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "To ask the right question is already half the solution of a problem.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Even a happy life cannot be without a measure of darkness, and the word 'happy' would lose its meaning if it were not balanced by sadness.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Man's main task in life is to give birth to himself, to become what he potentially is.",
+    "author": "Erich Fromm"
+  },
+  {
+    "text": "Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character.",
+    "author": "Erich Fromm"
+  },
+  {
+    "text": "The task we must set for ourselves is not to feel secure, but to be able to tolerate insecurity.",
+    "author": "Erich Fromm"
+  },
+  {
+    "text": "Creativity requires the courage to let go of certainties.",
+    "author": "Erich Fromm"
+  },
+  {
+    "text": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Look deep into nature, and then you will understand everything better.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Science is not only a disciple of reason but also one of romance and passion.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "Intelligence is the ability to adapt to change.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "However difficult life may seem, there is always something you can do and succeed at.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "My goal is simple. It is a complete understanding of the universe.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "Remember to look up at the stars and not down at your feet.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "We are a way for the cosmos to know itself.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "It pays to keep an open mind, but not so open your brain falls out.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "The good thing about science is that it's true whether or not you believe in it.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "text": "We spend the first year of a child's life teaching it to walk and talk and the rest of its life to shut up and sit down.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "text": "For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "text": "The universe is under no obligation to make sense to you.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "text": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "Reality must take precedence over public relations, for nature cannot be fooled.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "Physics is like sex: sure, it may give some practical results, but that's not why we do it.",
+    "author": "Richard Feynman"
+  },
+  {
+    "text": "The machines that are first invented to perform any particular movement are always the most complex, and succeeding artists generally discover that with fewer wheels and simpler movements the same effects may be produced.",
+    "author": "Adam Smith"
+  },
+  {
+    "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "text": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "In science it often happens that scientists say, 'You know that's a really good argument; my position is mistaken,' and then they actually change their minds.",
+    "author": "Carl Sagan"
+  },
+  {
+    "text": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+    "author": "Edwin Hubble"
+  },
+  {
+    "text": "We cannot solve our problems with the same thinking we used when we created them.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Once you stop learning, you start dying.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Design is not just what it looks like and feels like. Design is how it works.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay"
+  },
+  {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "text": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger Dijkstra"
+  },
+  {
+    "text": "The most disastrous thing that you can ever learn is your first programming language.",
+    "author": "Alan Kay"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  },
+  {
+    "text": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare — Hamlet"
+  },
+  {
+    "text": "What's in a name? That which we call a rose by any other name would smell as sweet.",
+    "author": "William Shakespeare — Romeo and Juliet"
+  },
+  {
+    "text": "We know what we are, but know not what we may be.",
+    "author": "William Shakespeare — Hamlet"
+  },
+  {
+    "text": "The course of true love never did run smooth.",
+    "author": "William Shakespeare — A Midsummer Night's Dream"
+  },
+  {
+    "text": "All that glitters is not gold.",
+    "author": "William Shakespeare — The Merchant of Venice"
+  },
+  {
+    "text": "There is nothing either good or bad, but thinking makes it so.",
+    "author": "William Shakespeare — Hamlet"
+  },
+  {
+    "text": "This above all: to thine own self be true.",
+    "author": "William Shakespeare — Hamlet"
+  },
+  {
+    "text": "Hell is empty and all the devils are here.",
+    "author": "William Shakespeare — The Tempest"
+  },
+  {
+    "text": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky — The Perks of Being a Wallflower"
+  },
+  {
+    "text": "Even the smallest person can change the course of the future.",
+    "author": "Galadriel — The Lord of the Rings"
+  },
+  {
+    "text": "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.",
+    "author": "Bilbo Baggins — The Lord of the Rings"
+  },
+  {
+    "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+    "author": "Louisa May Alcott — Little Women"
+  },
+  {
+    "text": "One must always be careful of books, and what is inside them, for words have the power to change us.",
+    "author": "Cassandra Clare — City of Bones"
+  },
+  {
+    "text": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
+    "author": "George R.R. Martin"
+  },
+  {
+    "text": "The truth is rarely pure and never simple.",
+    "author": "Oscar Wilde — The Importance of Being Earnest"
+  },
+  {
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Always forgive your enemies — nothing annoys them so much.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "author": "Oscar Wilde — Lady Windermere's Fan"
+  },
+  {
+    "text": "A cynic is a man who knows the price of everything and the value of nothing.",
+    "author": "Oscar Wilde — Lady Windermere's Fan"
+  },
+  {
+    "text": "The only way to get rid of a temptation is to yield to it.",
+    "author": "Oscar Wilde — The Picture of Dorian Gray"
+  },
+  {
+    "text": "It is absurd to divide people into good and bad. People are either charming or tedious.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "It is not our abilities that show what we truly are; it is our choices.",
+    "author": "J.K. Rowling — Harry Potter"
+  },
+  {
+    "text": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+    "author": "Albus Dumbledore — Harry Potter"
+  },
+  {
+    "text": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic.",
+    "author": "Albus Dumbledore — Harry Potter"
+  },
+  {
+    "text": "We've all got both light and dark inside us. What matters is the part we choose to act on.",
+    "author": "Sirius Black — Harry Potter"
+  },
+  {
+    "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "author": "Albus Dumbledore — Harry Potter"
+  },
+  {
+    "text": "To have been loved so deeply, even though the person who loved us is gone, will give us some protection forever.",
+    "author": "Albus Dumbledore — Harry Potter"
+  },
+  {
+    "text": "I took a deep breath and listened to the old brag of my heart: I am, I am, I am.",
+    "author": "Sylvia Plath — The Bell Jar"
+  },
+  {
+    "text": "The most courageous act is still to think for yourself. Aloud.",
+    "author": "Coco Chanel"
+  },
+  {
+    "text": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+    "author": "Sirius Black — Harry Potter"
+  },
+  {
+    "text": "Man is the only creature who refuses to be what he is.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "I rebel; therefore I exist.",
+    "author": "Albert Camus — The Rebel"
+  },
+  {
+    "text": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "Live to the point of tears.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "In the middle of an ordinary life, love gives us a fairytale.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Not I, nor anyone else can travel that road for you. You must travel it by yourself.",
+    "author": "Walt Whitman — Leaves of Grass"
+  },
+  {
+    "text": "Do I contradict myself? Very well then I contradict myself; I am large, I contain multitudes.",
+    "author": "Walt Whitman — Song of Myself"
+  },
+  {
+    "text": "I am larger, better than I thought; I did not know I held so much goodness.",
+    "author": "Walt Whitman"
+  },
+  {
+    "text": "The most potent weapon of the oppressor is the mind of the oppressed.",
+    "author": "Steve Biko"
+  },
+  {
+    "text": "Not all readers are leaders, but all leaders are readers.",
+    "author": "Harry S. Truman"
+  },
+  {
+    "text": "There is no friend as loyal as a book.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "text": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+    "author": "William Shakespeare — Julius Caesar"
+  },
+  {
+    "text": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "author": "Naruto Uzumaki — Naruto"
+  },
+  {
+    "text": "Hard work is worthless for those that don't believe in themselves.",
+    "author": "Naruto Uzumaki — Naruto"
+  },
+  {
+    "text": "Those who break the rules are trash. But those who abandon their comrades are worse than trash.",
+    "author": "Kakashi Hatake — Naruto"
+  },
+  {
+    "text": "Giving up is what kills people. When people reject giving up… they finally win the right to transcend humanity.",
+    "author": "Alucard — Hellsing"
+  },
+  {
+    "text": "The moment people come to know love, they run the risk of carrying hate.",
+    "author": "Obito Uchiha — Naruto"
+  },
+  {
+    "text": "In this world, wherever there is light, there are also shadows.",
+    "author": "Madara Uchiha — Naruto"
+  },
+  {
+    "text": "If you don't share someone's pain, you can never understand them.",
+    "author": "Nagato — Naruto"
+  },
+  {
+    "text": "Anger is like a knife. You cut yourself if you misuse it.",
+    "author": "Inuyasha — Inuyasha"
+  },
+  {
+    "text": "We don't have to save the world. We just have to save each other.",
+    "author": "Reki — Haibane Renmei"
+  },
+  {
+    "text": "It's better to die than to live wounded, frightened, and diminished.",
+    "author": "Scar — Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "text": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "author": "Roy Mustang — Fullmetal Alchemist"
+  },
+  {
+    "text": "There's no such thing as a painless lesson. They just don't exist.",
+    "author": "Roy Mustang — Fullmetal Alchemist"
+  },
+  {
+    "text": "Even in moments of darkness, there is always hope.",
+    "author": "Alphonse Elric — Fullmetal Alchemist"
+  },
+  {
+    "text": "A tool that has the will to live is no tool at all.",
+    "author": "Levi Ackerman — Attack on Titan"
+  },
+  {
+    "text": "No matter what, you press on. That's all there is to it.",
+    "author": "Reiner Braun — Attack on Titan"
+  },
+  {
+    "text": "On that day, mankind received a grim reminder. We lived in fear of the Titans and were disgraced to live in these cages we called walls.",
+    "author": "Eren Yeager — Attack on Titan"
+  },
+  {
+    "text": "If you win you live. If you lose you die. If you don't fight, you can't win.",
+    "author": "Eren Yeager — Attack on Titan"
+  },
+  {
+    "text": "People, who can't throw something important away, can never hope to change anything.",
+    "author": "Armin Arlert — Attack on Titan"
+  },
+  {
+    "text": "This world is merciless, and it's also very beautiful.",
+    "author": "Mikasa Ackerman — Attack on Titan"
+  },
+  {
+    "text": "It's not whether I'm right or wrong, I'm going after the answer.",
+    "author": "Kaneki Ken — Tokyo Ghoul"
+  },
+  {
+    "text": "Sometimes good people make bad choices. It doesn't mean they're bad people. It means they're human.",
+    "author": "Unknown — Tokyo Ghoul"
+  },
+  {
+    "text": "I'm not the protagonist of a novel or anything. I'm just a college student who likes to read.",
+    "author": "Kaneki Ken — Tokyo Ghoul"
+  },
+  {
+    "text": "No matter how hard or impossible it is, never lose sight of your goal.",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "When do you think people die? When they are shot through the heart with a bullet? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom? No! It's when they are forgotten.",
+    "author": "Dr. Hiluluk — One Piece"
+  },
+  {
+    "text": "You can't bring back what you've lost. Think about what you have now.",
+    "author": "Jinbe — One Piece"
+  },
+  {
+    "text": "Dying is not an apology, and living is not a sin.",
+    "author": "Robin — One Piece"
+  },
+  {
+    "text": "Pirates are evil? The Marines are righteous? These are just empty claims. The real things that matter are, 'What did you do? What result did it bring?'",
+    "author": "Donquixote Doflamingo — One Piece"
+  },
+  {
+    "text": "I don't want to conquer anything. I just think the guy with the most freedom in the whole ocean... is the Pirate King!",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "Seeking strength is not a sin. The sin lies in aiming for a false strength.",
+    "author": "Biscuit Krueger — Hunter x Hunter"
+  },
+  {
+    "text": "If you want to get to know someone, find out what makes them angry.",
+    "author": "Gon Freecss — Hunter x Hunter"
+  },
+  {
+    "text": "Gon. You are light itself.",
+    "author": "Killua Zoldyck — Hunter x Hunter"
+  },
+  {
+    "text": "You should enjoy the little detours. Because that's where you'll find the things more important than what you want.",
+    "author": "Ging Freecss — Hunter x Hunter"
+  },
+  {
+    "text": "There are liars who only lie when they think it's for your own good.",
+    "author": "Leorio — Hunter x Hunter"
+  },
+  {
+    "text": "I will become stronger. No matter what.",
+    "author": "Killua Zoldyck — Hunter x Hunter"
+  },
+  {
+    "text": "It's not about whether you can or not — once you've decided you will, you just do it.",
+    "author": "Miyamoto Musashi — Vagabond"
+  },
+  {
+    "text": "The most important thing in strategy is speed — the ability to respond to changing events.",
+    "author": "Miyamoto Musashi — Vagabond"
+  },
+  {
+    "text": "If you focus on not getting cut, you'll just keep dying from cuts.",
+    "author": "Miyamoto Musashi — Vagabond"
+  },
+  {
+    "text": "A person is not judged by their actions in the moment, but by the trend of their entire life.",
+    "author": "Ashitaka — Princess Mononoke"
+  },
+  {
+    "text": "Once you've met someone, you never really forget them.",
+    "author": "Zeniba — Spirited Away"
+  },
+  {
+    "text": "No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love.",
+    "author": "Nausicaä — Nausicaä of the Valley of the Wind"
+  },
+  {
+    "text": "You can't sit still while someone you care about is hurting.",
+    "author": "Shoyo Hinata — Haikyuu!!"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Tobio Kageyama — Haikyuu!!"
+  },
+  {
+    "text": "Don't take your eyes off the ball until the very last moment.",
+    "author": "Daichi Sawamura — Haikyuu!!"
+  },
+  {
+    "text": "A small but decisive change... is victory.",
+    "author": "Ittetsu Takeda — Haikyuu!!"
+  },
+  {
+    "text": "The ball isn't conscious. It doesn't think. You move the ball, don't wait for it to move you.",
+    "author": "Oikawa Tooru — Haikyuu!!"
+  },
+  {
+    "text": "Why do you fall? So you can learn to pick yourself up.",
+    "author": "Thomas Wayne — Batman Begins"
+  },
+  {
+    "text": "Whether you believe you can, or you believe you can't — you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Eighty percent of success is showing up.",
+    "author": "Woody Allen"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "The man who has confidence in himself gains the confidence of others.",
+    "author": "Hasidic Proverb"
+  },
+  {
+    "text": "We generate fears while we sit. We overcome them by action.",
+    "author": "Dr. Henry Link"
+  },
+  {
+    "text": "It's not what we do once in a while that shapes our lives. It's what we do consistently.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "Success is not final; failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston S. Churchill"
+  },
+  {
+    "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "author": "Winston S. Churchill"
+  },
+  {
+    "text": "You have enemies? Good. That means you've stood up for something sometime in your life.",
+    "author": "Winston S. Churchill"
+  },
+  {
+    "text": "Never, never, never give up.",
+    "author": "Winston S. Churchill"
+  },
+  {
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston S. Churchill"
+  },
+  {
+    "text": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Courage is not the absence of fear, but the triumph over it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Do not judge me by my successes. Judge me by how many times I fell down and got back up again.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Real generosity toward the future lies in giving all to the present.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "The time is always right to do what is right.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Faith is taking the first step even when you don't see the whole staircase.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "The function of education is to teach one to think intensively and to think critically.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "text": "Pain is temporary. Quitting lasts forever.",
+    "author": "Lance Armstrong"
+  },
+  {
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "I went to the woods because I wished to live deliberately.",
+    "author": "Henry David Thoreau — Walden"
+  },
+  {
+    "text": "Not until we are lost, in other words, not till we have lost the world, do we begin to find ourselves.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "What is the use of a fine house if you haven't got a tolerable planet to put it on?",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "Our truest life is when we are in dreams awake.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "However mean your life is, meet it and live it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "If you realized how powerful your thoughts are, you would never think a negative thought.",
+    "author": "Peace Pilgrim"
+  },
+  {
+    "text": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+    "author": "Dolly Parton"
+  },
+  {
+    "text": "Too many of us are not living our dreams because we are living our fears.",
+    "author": "Les Brown"
+  },
+  {
+    "text": "When something is important enough, you do it even if the odds are not in your favor.",
+    "author": "Elon Musk"
+  },
+  {
+    "text": "The first step is to establish that something is possible; then probability will occur.",
+    "author": "Elon Musk"
+  },
+  {
+    "text": "Persistence is very important. You should not give up unless you are forced to give up.",
+    "author": "Elon Musk"
+  },
+  {
+    "text": "If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.",
+    "author": "Elon Musk"
+  },
+  {
+    "text": "When you struggle with your problem, that's when you understand it.",
+    "author": "Elon Musk"
+  },
+  {
+    "text": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "The secret of success is making your vocation your vacation.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "The man who does not read has no advantage over the man who cannot read.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Never put off till tomorrow what may be done day after tomorrow just as well.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Every child is an artist. The problem is staying an artist when you grow up.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Others have seen what is and asked why. I have seen what could be and asked why not.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Inspiration exists, but it has to find you working.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Learn the rules like a pro, so you can break them like an artist.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "By failing to prepare, you are preparing to fail.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "In this world nothing can be said to be certain, except death and taxes.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Goals are dreams with deadlines.",
+    "author": "Diana Scharf"
+  },
+  {
+    "text": "The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Far and away the best prize that life has to offer is the chance to work hard at work worth doing.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Nobody cares how much you know, until they know how much you care.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Speak softly and carry a big stick; you will go far.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "For every minute you are angry you lose sixty seconds of happiness.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Once you make a decision, the universe conspires to make it happen.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Nothing great was ever achieved without enthusiasm.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Write it on your heart that every day is the best day in the year.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "A smooth sea never made a skilled sailor.",
+    "author": "English Proverb"
+  },
+  {
+    "text": "Even a thousand-mile journey begins with the first step.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "The nail that sticks out gets hammered down.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "text": "Vision without action is a daydream. Action without vision is a nightmare.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "text": "A wise man makes his own decisions; an ignorant man follows public opinion.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "The temptation to give up is strongest just before victory.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "You cannot prevent the birds of sadness from passing over your head, but you can prevent their making a nest in your hair.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "Gold cannot be pure, and people cannot be perfect.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a year, inherit a fortune. If you want happiness for a lifetime, help somebody.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "Experience is a hard teacher because she gives the test first, the lesson afterwards.",
+    "author": "Vernon Law"
+  },
+  {
+    "text": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "The privilege of a lifetime is being who you are.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "Follow your bliss and the universe will open doors where there were only walls.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "The hero's journey always begins with the call. One way or another, a guide must come to say, 'Look, you're in Sleepy Valley now, but you can live in the world of the gods.'",
+    "author": "Joseph Campbell"
+  },
+  {
+    "text": "The purpose of life is not to arrive at death safely in a well-preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up.",
+    "author": "Hunter S. Thompson"
+  },
+  {
+    "text": "Life should not be a journey to the grave with the intention of arriving safely in a pretty and well-preserved body.",
+    "author": "Hunter S. Thompson"
+  },
+  {
+    "text": "Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why we call it the present.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Beautiful things don't ask for attention.",
+    "author": "James Thurber — The Secret Life of Walter Mitty"
+  },
+  {
+    "text": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "We don't stop playing because we grow old; we grow old because we stop playing.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "The single biggest problem in communication is the illusion that it has taken place.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "People who say it cannot be done should not interrupt those who are doing it.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "The world is so empty if one thinks only of mountains, rivers, and cities; but to know even one other person who thinks and feels with us… makes the earth an inhabited garden.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "None are more hopelessly enslaved than those who falsely believe they are free.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "A man sees in the world what he carries in his heart.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Daring ideas are like chessmen moved forward. They may be beaten, but they may start a winning game.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Life belongs to the living, and he who lives must be prepared for changes.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "If we don't change, we don't grow. If we don't grow, we aren't really living.",
+    "author": "Gail Sheehy"
+  },
+  {
+    "text": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Strong minds discuss ideas, average minds discuss events, weak minds discuss people.",
+    "author": "Socrates"
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Be kind, for everyone you meet is fighting a harder battle.",
+    "author": "Plato"
+  },
+  {
+    "text": "Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws.",
+    "author": "Plato"
+  },
+  {
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "author": "Plato"
+  },
+  {
+    "text": "Wise men talk because they have something to say; fools, because they have to say something.",
+    "author": "Plato"
+  },
+  {
+    "text": "He who is not a good servant will not be a good master.",
+    "author": "Plato"
+  },
+  {
+    "text": "At the touch of love, everyone becomes a poet.",
+    "author": "Plato"
+  },
+  {
+    "text": "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.",
+    "author": "Plato"
+  },
+  {
+    "text": "Every heart sings a song, incomplete, until another heart whispers back.",
+    "author": "Plato"
+  },
+  {
+    "text": "Pleasure in the job puts perfection in the work.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "In all things of nature there is something of the marvelous.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Hope is a waking dream.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "The whole is more than the sum of its parts.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Quality is not an act. It is a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "The energy of the mind is the essence of life.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Man is by nature a social animal.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Those who educate children well are more to be honored than they who produce them.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "An educated mind can entertain an idea without accepting it.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Believe in yourself! Have faith in your abilities!",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Action is a great restorer and builder of confidence.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "Getting people to like you is only the other side of liking them.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "The more you lose yourself in something bigger than yourself, the more energy you will have.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "text": "An artist is not paid for his labor but for his vision.",
+    "author": "James Whistler"
+  },
+  {
+    "text": "Art is not what you see, but what you make others see.",
+    "author": "Edgar Degas"
+  },
+  {
+    "text": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "All our dreams can come true, if we have the courage to pursue them.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "It's kind of fun to do the impossible.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "To all who come to this happy place, welcome.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "First, think. Second, believe. Third, dream. And finally, dare.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Laughter is timeless. Imagination has no age. Dreams are forever.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "The secret of imagination is to look at ordinary things as if they were extraordinary.",
+    "author": "Chesterton"
+  },
+  {
+    "text": "We must accept finite disappointment, but never lose infinite hope.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Freedom is nothing but a chance to be better.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+    "author": "Dr. Seuss — Oh, the Places You'll Go!"
+  },
+  {
+    "text": "Why fit in when you were born to stand out?",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "You can get help from teachers, but you are going to have to learn a lot by yourself, sitting alone in a room.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+    "author": "Dr. Seuss — The Lorax"
+  },
+  {
+    "text": "If you never did, you should. These things are fun, and fun is good.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "You have to be odd to be number one.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "How did it get so late so soon?",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "Only those who attempt the absurd can achieve the impossible.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Great spirits have always encountered violent opposition from mediocre minds.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Logic will get you from A to Z; imagination will get you everywhere.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A clever person solves a problem. A wise person avoids it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "Men are not prisoners of fate, but only prisoners of their own minds.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "Happiness lies in the joy of achievement and the thrill of creative effort.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "Take care of the minutes and the hours will take care of themselves.",
+    "author": "Lord Chesterfield"
+  },
+  {
+    "text": "No yesterdays are ever wasted for those who give themselves to today.",
+    "author": "Brendan Francis"
+  },
+  {
+    "text": "Tough times never last, but tough people do.",
+    "author": "Robert H. Schuller"
+  },
+  {
+    "text": "Pain is inevitable. Suffering is optional.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "No matter how far you travel, you can never get away from yourself.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "Not all those who wander are lost. But some of us just don't like asking for directions.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "I dream. Sometimes I think that's the only right thing to do.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "If you can love someone with your whole heart, even one person, then there's salvation in life.",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "Once you have a clear picture of your priorities — that is values, goals, and high leverage activities — organize around them.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "Most of us spend too much time on what is urgent and not enough time on what is important.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "Live out of your imagination, not your history.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "We see the world, not as it is, but as we are — or, as we are conditioned to see it.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny.",
+    "author": "Stephen Covey"
+  },
+  {
+    "text": "Fallacies do not cease to be fallacies because they become fashions.",
+    "author": "Gilbert Chesterton"
+  },
+  {
+    "text": "Your next step is simple. You are the first domino.",
+    "author": "Gary Keller"
+  },
+  {
+    "text": "I no doubt deserved my enemies, but I don't believe I deserved my friends.",
+    "author": "Walt Whitman"
+  },
+  {
+    "text": "There is no one giant step that does it. It's a lot of little steps.",
+    "author": "Peter A. Cohen"
+  },
+  {
+    "text": "Focused, hard work is the real key to success.",
+    "author": "John Carmack"
+  },
+  {
+    "text": "If you're brave enough to say goodbye, life will reward you with a new hello.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "I didn't get there by wishing for it or hoping for it, but by working for it.",
+    "author": "Estee Lauder"
+  },
+  {
+    "text": "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "text": "As you think, you travel, and as you love, you attract.",
+    "author": "James Allen"
+  },
+  {
+    "text": "Never stand begging for that which you have the power to earn.",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "text": "Nothing can dim the light which shines from within.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Life is love and love is life.",
+    "author": "Elvis Presley"
+  },
+  {
+    "text": "Realistic people do not accomplish extraordinary things.",
+    "author": "John Eliot"
+  },
+  {
+    "text": "To affect the quality of the day, that is the highest of arts.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "He who is not contented with what he has, would not be contented with what he would like to have.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?",
+    "author": "Sathya Sai Baba"
+  },
+  {
+    "text": "You don't need to be better than anyone else, you just need to be better than you used to be.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "No grand idea was ever born in a conference, but a lot of foolish ideas have died there.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "text": "Believe that life is worth living and your belief will help create the fact.",
+    "author": "William James"
+  },
+  {
+    "text": "Every poem should remind the reader that they are going to die.",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "text": "A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.",
+    "author": "Ming-Dao Deng"
+  },
+  {
+    "text": "Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.",
+    "author": "Woody Allen"
+  },
+  {
+    "text": "As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.",
+    "author": "Jack London"
+  },
+  {
+    "text": "Your world is a living expression of how you are using and have used your mind.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "text": "Sometimes it is harder to deprive oneself of a pain than of a pleasure.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "text": "Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "text": "When you know what you want, and want it bad enough, you will find a way to get it.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "A fear of weakness only strengthens weakness.",
+    "author": "Criss Jami"
+  },
+  {
+    "text": "Respect is earned by effort not age, all things age without effort.",
+    "author": "C. Sean McGee"
+  },
+  {
+    "text": "Great deeds are usually wrought at great risks.",
+    "author": "Herodotus"
+  },
+  {
+    "text": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.",
+    "author": "Alexander Graham Bell"
+  },
+  {
+    "text": "It doesn't matter where you are coming from. All that matters is where you are going.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "The fastest way to change is to laugh at your own folly.",
+    "author": "Spencer Johnson"
+  },
+  {
+    "text": "Happiness must be grown in one's own garden.",
+    "author": "Mary Engelbreit"
+  },
+  {
+    "text": "Out of your vulnerabilities will come your strength.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "Love your enemies, for they tell you your faults.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "You're only given a little spark of madness. You mustn't lose it.",
+    "author": "Robin Williams"
+  },
+  {
+    "text": "A clear conscience never fears midnight knocking.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "text": "Science can flourish only in an atmosphere of free speech.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "If we are not able to smile, then the world will not have peace.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "Poetry is written with tears, fiction with blood, and history with invisible ink.",
+    "author": "Carlos Ruiz Zafon"
+  },
+  {
+    "text": "Everything is in your own heart.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "The person who says something is impossible should not interrupt the person who is doing it.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "Few things are more deceptive than memories.",
+    "author": "Carlos Ruiz Zafon"
+  },
+  {
+    "text": "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.",
+    "author": "Mark Manson"
+  },
+  {
+    "text": "The future is not a gift. It is an achievement.",
+    "author": "Robert F. Kennedy"
+  },
+  {
+    "text": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Be fascinated instead of frustrated.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "The true delight is in the finding out rather than in the knowing.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Self-education is, I firmly believe, the only kind of education there is.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Violence is the last refuge of the incompetent.",
+    "author": "Isaac Asimov — Foundation"
+  },
+  {
+    "text": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny…'",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "I write for the same reason I breathe — because if I didn't, I would die.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "If knowledge can create problems, it is not through ignorance that we can solve them.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Science can be introduced to children well or poorly. If poorly, children can be turned away from science; they can develop a lifelong antipathy.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Life is pleasant. Death is peaceful. It's the transition that's troublesome.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "It pays to be obvious, especially if you have a reputation for subtlety.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "In life, unlike chess, the game continues after checkmate.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Never let your sense of morals prevent you from doing what is right.",
+    "author": "Isaac Asimov — Foundation"
+  },
+  {
+    "text": "It is change, continuing change, inevitable change, that is the dominant factor in society today.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "To succeed, planning alone is insufficient. One must improvise as well.",
+    "author": "Isaac Asimov — Foundation"
+  },
+  {
+    "text": "There is a cult of ignorance in the United States, and there always has been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "People who think they know everything are a great annoyance to those of us who do.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Properly read, the Bible is the most potent force for atheism ever conceived.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "The most hopelessly stupid man is he who is not aware that he is wise.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Writing, to me, is simply thinking through my fingers.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "To be sure, nothing is more gentle than fire when it burns; nothing warmer than ice when it freezes; nothing kinder than a laser when it cuts.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "The only constant is change, continuing change, inevitable change.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "Any planet is Earth to those that live on it.",
+    "author": "Isaac Asimov — The Naked Sun"
+  },
+  {
+    "text": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "text": "You have the right to perform your actions, but you are not entitled to the fruits of your actions.",
+    "author": "Bhagavad Gita — 2.47"
+  },
+  {
+    "text": "Change is the law of the universe. You can be a millionaire, or a pauper, in an instant.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "The soul is never born nor dies at any time. It has not come into being, does not come into being, and will not come into being.",
+    "author": "Bhagavad Gita — 2.20"
+  },
+  {
+    "text": "Let right deeds be thy motive, not the fruit which comes from them.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "A person can rise through the efforts of his own mind; or draw himself down, in the same manner. Because each person is his own friend or enemy.",
+    "author": "Bhagavad Gita — 6.5"
+  },
+  {
+    "text": "Fear not what is not real, never was and never will be. What is real, always was and cannot be destroyed.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "The mind is everything. What you think, you become. What you feel, you attract. What you imagine, you create.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "Set your heart upon your work but never its reward.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "Do not be led by others, awaken your own mind, amass your own experience, and decide for yourself your own path.",
+    "author": "Atharva Veda"
+  },
+  {
+    "text": "Truth is one; the sages call it by many names.",
+    "author": "Rig Veda — 1.164.46"
+  },
+  {
+    "text": "From the unreal lead me to the real. From darkness lead me to light. From death lead me to immortality.",
+    "author": "Brihadaranyaka Upanishad"
+  },
+  {
+    "text": "Aham Brahmasmi — I am Brahman. I am the infinite reality.",
+    "author": "Brihadaranyaka Upanishad — 1.4.10"
+  },
+  {
+    "text": "Tat Tvam Asi — Thou art that.",
+    "author": "Chandogya Upanishad — 6.8.7"
+  },
+  {
+    "text": "The Self is the friend of a man who masters himself through the Self, but for a man without self-mastery, the Self is like an enemy at war.",
+    "author": "Bhagavad Gita — 6.6"
+  },
+  {
+    "text": "When a person responds to the joys and sorrows of others as if they were his own, he has attained the highest state of spiritual union.",
+    "author": "Bhagavad Gita — 6.32"
+  },
+  {
+    "text": "The wise see knowledge and action as one; they see truly.",
+    "author": "Bhagavad Gita — 5.4"
+  },
+  {
+    "text": "He who has no attachments can really love others, for his love is pure and divine.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "You cannot believe in God until you believe in yourself.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Take up one idea. Make that one idea your life — think of it, dream of it, live on that idea.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "The greatest sin is to think yourself weak.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "In a conflict between the heart and the brain, follow your heart.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Arise, awake and stop not till the goal is reached.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "All power is within you; you can do anything and everything.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Talk to yourself once in a day, otherwise you may miss meeting an excellent person in this world.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "They alone live who live for others; the rest are more dead than alive.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "The world is the great gymnasium where we come to make ourselves strong.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Do not wait for anybody or anything. Do whatever you can, build your hope on none.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Purity, patience and perseverance are the three essentials to success and above all, love.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "The moment I have realized God sitting in the temple of every human body, the moment I stand in reverence before every human being and see God in him — that moment I am free from bondage.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Where can we go to find God if we cannot see Him in our own hearts and in every living being?",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "The fire that warms us can also consume us; it is not the fault of the fire.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "It is our own mental attitude which makes the world what it is for us. Our thoughts make things beautiful, our thoughts make things ugly.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "We reap what we sow. We are the makers of our own fate.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "God is to be worshipped as the one beloved, dearer than everything in this and next life.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "A man is not poor without a rupee but a man is really poor without a dream and ambition.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "In one word, this ideal is that you are divine.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Conquer yourself and the whole universe is yours.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Strength is life, weakness is death.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Each soul is potentially divine. The goal is to manifest this divinity within.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "If you think you are bound, you remain bound; you make your own bondage. If you know you are free, you are free this moment.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Meditation can turn fools into sages but unfortunately fools never meditate.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Neither seek nor avoid, take what comes.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "You must have an iron will if you would cross the ocean. You must be strong enough to pierce mountains.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "The whole secret of existence is to have no fear.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "text": "Yoga is the journey of the self, through the self, to the self.",
+    "author": "Bhagavad Gita"
+  },
+  {
+    "text": "For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his very mind will be the greatest enemy.",
+    "author": "Bhagavad Gita — 6.6"
+  },
+  {
+    "text": "One who sees inaction in action, and action in inaction, is intelligent among men.",
+    "author": "Bhagavad Gita — 4.18"
+  },
+  {
+    "text": "The soul which is not moved, the soul that with strong and constant calm takes sorrow and takes joy indifferently, lives in the life undying.",
+    "author": "Bhagavad Gita — 2.15"
+  },
+  {
+    "text": "As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent self.",
+    "author": "Bhagavad Gita — 6.19"
+  },
+  {
+    "text": "What is here is also there; what is there is also here. Who sees multiplicity but not the one indivisible Self must wander on and on from death to death.",
+    "author": "Katha Upanishad — 2.1.10"
+  },
+  {
+    "text": "The Self cannot be known through the study of scriptures, nor through subtlety of the intellect, nor through much learning; but by him who longs for it — by the Self is the Self understood.",
+    "author": "Katha Upanishad — 1.2.23"
+  },
+  {
+    "text": "Two birds sit on the same tree. One eats fruit, the other watches silently. So too are two aspects of the self — one experiencing, one witnessing.",
+    "author": "Mundaka Upanishad — 3.1.1"
+  },
+  {
+    "text": "The Atman is never born and never dies. It is not a product of anything, nor is it the cause of anything. It is without birth, without change, without death — the eternal, ever-present Self.",
+    "author": "Katha Upanishad"
+  },
+  {
+    "text": "That which permeates all, which nothing transcends and which, like the universal space around us, fills everything completely from within and without, that Supreme non-dual Brahman — that thou art.",
+    "author": "Sankaracharya — Vivekachudamani"
+  },
+  {
+    "text": "The universe is the externalization of the soul.",
+    "author": "Adi Shankaracharya"
+  },
+  {
+    "text": "Do not be proud of wealth, people, relations and friends, or youth. All these are snatched by time in the blink of an eye. Giving up this illusory world, know and attain the Supreme.",
+    "author": "Adi Shankaracharya — Bhaja Govindam"
+  },
+  {
+    "text": "Without self-knowledge, without understanding the working and functions of his mind, man cannot be free.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "It is no measure of health to be well adjusted to a profoundly sick society.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "The ability to observe without evaluating is the highest form of intelligence.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "If you begin to understand what you are without trying to change it, then what you are undergoes a transformation.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Do you see why it is violent?",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "The flowering of love is meditation.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "To understand the immeasurable, the mind must be extraordinarily quiet, still.",
+    "author": "Jiddu Krishnamurti"
+  },
+  {
+    "text": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+    "author": "Shunryu Suzuki — Zen Mind, Beginner's Mind"
+  },
+  {
+    "text": "The flame that burns twice as bright burns half as long. — Live fully but be mindful of your energy.",
+    "author": "Tao Te Ching — Lao Tzu"
+  },
+  {
+    "text": "Ekam sat vipra bahudha vadanti — Truth is one, the wise call it by many names.",
+    "author": "Rig Veda"
+  },
+  {
+    "text": "Sarve bhavantu sukhinah — May all beings be happy. May all be free from suffering.",
+    "author": "Hindu Prayer — Brihadaranyaka Upanishad"
+  },
+  {
+    "text": "We shouldn't worry about being able to achieve our dreams, as long as we have the desire to do it!",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "Inherited Will, the Destiny of the Age, and the Dreams of its People. These are things that will not be stopped. As long as people continue to pursue the meaning of freedom, these things will never cease to be!",
+    "author": "Gol D. Roger — One Piece"
+  },
+  {
+    "text": "If you don't risk your life, you can't create a future.",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "A man's dream will never die.",
+    "author": "Whitebeard — One Piece"
+  },
+  {
+    "text": "Miracles only occur for those with the determination to never stop trying!",
+    "author": "Monkey D. Luffy — One Piece"
+  },
+  {
+    "text": "A wound that'd make an ordinary man unconscious... I won't lose to it. A wound that would kill an ordinary person... I won't lose to it! To face one who is extraordinary, I can't allow myself to be ordinary!",
+    "author": "Roronoa Zoro — One Piece"
+  },
+  {
+    "text": "Our motto on hard days of training: 'To be stronger than yesterday.' If I have to, I'll be stronger than a half day ago, even a minute ago.",
+    "author": "Rock Lee — Naruto"
+  },
+  {
+    "text": "Sorry I'm late. I got lost on the road of life.",
+    "author": "Kakashi Hatake — Naruto"
+  },
+  {
+    "text": "I won't run away anymore... I won't go back on my word... that is my ninja way! To become Hokage is my dream!",
+    "author": "Naruto Uzumaki — Naruto"
+  },
+  {
+    "text": "A genius? So I was not born with a whole lot of natural talent. But I work hard and I never give up! That is my gift; that is my ninja way!",
+    "author": "Rock Lee — Naruto"
+  },
+  {
+    "text": "Never give up without even trying. Do what you can, no matter how small the effect it may have!",
+    "author": "Obito Uchiha — Naruto"
+  },
+  {
+    "text": "No job is beneath you. Be really great at whatever you start with.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "A good apology is like an antibiotic; a bad apology is like rubbing salt in the wound.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "The best way to teach somebody something is to have them think they're learning something else.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "If you took one-tenth the energy you put into complaining and applied it to solving the problem, you'd be surprised by how well things can work out.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "Luck is where preparation meets opportunity.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "Time is all you have. And you may find one day that you have less than you think.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "I am going to keep having fun every day I have left, because there is no other way of life. You just have to decide whether you're a Tigger or an Eeyore.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "Complaining does not work as a strategy. We all have finite time and energy. Any time we spend whining is unlikely to help us achieve our goals. And it won't make us happier.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "You can't get there alone. People have to help you, and I do believe in karma. I'll take an earnest person over a hip person every day, because hip is short-term. Earnest is long-term.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "The questions are always more important than the answers.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "Find the best in everybody. Just keep waiting no matter how long it takes. No one is all evil. Everybody has a good side, just keep waiting, it will come out.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "When there's an elephant in the room, introduce him.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "Showing gratitude is one of the simplest yet most powerful things humans can do for each other.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "We don't beat the Reaper by living longer, we beat the Reaper by living well and living fully.",
+    "author": "Randy Pausch — The Last Lecture"
+  },
+  {
+    "text": "You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "Getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "I'm convinced that the only thing that kept me going was that I loved what I did. You've got to find what you love. If you haven't found it yet, keep looking. Don't settle.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet death is the destination we all share. Death is very likely the single best invention of Life. It is Life's change agent.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "Don't be trapped by dogma — which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice.",
+    "author": "Steve Jobs — Stanford Commencement 2005"
+  },
+  {
+    "text": "Do, or do not. There is no 'try.'",
+    "author": "Yoda — Star Wars: The Empire Strikes Back"
+  },
+  {
+    "text": "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+    "author": "Yoda — Star Wars: The Phantom Menace"
+  },
+  {
+    "text": "Your focus determines your reality.",
+    "author": "Qui-Gon Jinn — Star Wars: The Phantom Menace"
+  },
+  {
+    "text": "Hope is like the sun. If you only believe in it when you can see it, you'll never make it through the night.",
+    "author": "General Leia — Star Wars"
+  },
+  {
+    "text": "You got a dream, you gotta protect it. When people can't do something themselves, they're gonna tell you that you can't do it. You want something, go get it. Period.",
+    "author": "Chris Gardner — The Pursuit of Happyness"
+  },
+  {
+    "text": "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward.",
+    "author": "Rocky Balboa — Rocky Balboa"
+  },
+  {
+    "text": "Every champion was once a contender who refused to give up.",
+    "author": "Rocky Balboa — Rocky"
+  },
+  {
+    "text": "The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it.",
+    "author": "Rocky Balboa — Rocky Balboa"
+  },
+  {
+    "text": "Get busy living, or get busy dying.",
+    "author": "Andy Dufresne — The Shawshank Redemption"
+  },
+  {
+    "text": "Remember, Red, hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "author": "Andy Dufresne — The Shawshank Redemption"
+  },
+  {
+    "text": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "author": "Forrest Gump — Forrest Gump"
+  },
+  {
+    "text": "It's not who I am underneath, but what I do that defines me.",
+    "author": "Bruce Wayne — Batman Begins"
+  },
+  {
+    "text": "I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.",
+    "author": "Morpheus — The Matrix"
+  },
+  {
+    "text": "What we do in life echoes in eternity.",
+    "author": "Maximus — Gladiator"
+  },
+  {
+    "text": "Death smiles at us all. All a man can do is smile back.",
+    "author": "Marcus Aurelius — Gladiator"
+  },
+  {
+    "text": "A day may come when the courage of men fails, but it is not this day.",
+    "author": "Aragorn — The Lord of the Rings: The Return of the King"
+  },
+  {
+    "text": "You mustn't be afraid to dream a little bigger, darling.",
+    "author": "Eames — Inception"
+  },
+  {
+    "text": "The smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "author": "Cobb — Inception"
+  },
+  {
+    "text": "You'll have bad times, but it'll always wake you up to the good stuff you weren't paying attention to.",
+    "author": "Sean Maguire — Good Will Hunting"
+  },
+  {
+    "text": "Real loss is only possible when you love something more than you love yourself.",
+    "author": "Sean Maguire — Good Will Hunting"
+  },
+  {
+    "text": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "author": "John Keating — Dead Poets Society"
+  },
+  {
+    "text": "We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion.",
+    "author": "John Keating — Dead Poets Society"
+  },
+  {
+    "text": "No matter what anybody tells you, words and ideas can change the world.",
+    "author": "John Keating — Dead Poets Society"
+  },
+  {
+    "text": "Oh yes, the past can hurt. But the way I see it, you can either run from it or learn from it.",
+    "author": "Rafiki — The Lion King"
+  },
+  {
+    "text": "It's only after we've lost everything that we're free to do anything.",
+    "author": "Tyler Durden — Fight Club"
+  },
+  {
+    "text": "The things you own end up owning you.",
+    "author": "Tyler Durden — Fight Club"
+  },
+  {
+    "text": "You're not your job. You're not how much money you have in the bank. You're not the car you drive. You're not the contents of your wallet.",
+    "author": "Tyler Durden — Fight Club"
+  },
+  {
+    "text": "A man who doesn't spend time with his family can never be a real man.",
+    "author": "Vito Corleone — The Godfather"
+  },
+  {
+    "text": "Keep your friends close, but your enemies closer.",
+    "author": "Michael Corleone — The Godfather Part II"
+  },
+  {
+    "text": "Every man dies, not every man really lives.",
+    "author": "William Wallace — Braveheart"
+  },
+  {
+    "text": "They may take our lives, but they'll never take our freedom!",
+    "author": "William Wallace — Braveheart"
+  },
+  {
+    "text": "We used to look up at the sky and wonder at our place in the stars. Now we just look down, and worry about our place in the dirt.",
+    "author": "Cooper — Interstellar"
+  },
+  {
+    "text": "Love is the one thing we're capable of perceiving that transcends dimensions of time and space.",
+    "author": "Dr. Brand — Interstellar"
+  },
+  {
+    "text": "Mankind was born on Earth. It was never meant to die here.",
+    "author": "Cooper — Interstellar"
+  },
+  {
+    "text": "Whoever saves one life, saves the world entire.",
+    "author": "Oskar Schindler — Schindler's List"
+  },
+  {
+    "text": "Beneath this mask there is more than flesh. Beneath this mask there is an idea, and ideas are bulletproof.",
+    "author": "V — V for Vendetta"
+  },
+  {
+    "text": "Not everyone can become a great artist, but a great artist can come from anywhere.",
+    "author": "Anton Ego — Ratatouille"
+  },
+  {
+    "text": "Just keep swimming.",
+    "author": "Dory — Finding Nemo"
+  },
+  {
+    "text": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us.",
+    "author": "Timo Cruz — Coach Carter"
+  },
+  {
+    "text": "There are no accidents.",
+    "author": "Master Oogway — Kung Fu Panda"
+  },
+  {
+    "text": "I know what I have to do now. I've got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?",
+    "author": "Chuck Noland — Cast Away"
+  },
+  {
+    "text": "We're all pretty bizarre. Some of us are just better at hiding it, that's all.",
+    "author": "Andrew Clark — The Breakfast Club"
+  },
+  {
+    "text": "Perhaps it is good to have a beautiful mind, but an even greater gift is to discover a beautiful heart.",
+    "author": "John Nash — A Beautiful Mind"
+  },
+  {
+    "text": "There's a dream that was Rome. You could only whisper it. Anything more than a whisper and it would vanish, it was so fragile.",
+    "author": "Marcus Aurelius — Gladiator"
+  },
+  {
+    "text": "कर्म करो, फल की चिंता मत करो।",
+    "author": "भगवद्गीता — अध्याय २.४७"
+  },
+  {
+    "text": "तुम्हें कर्म करने का अधिकार है, फलों का नहीं।",
+    "author": "भगवद्गीता — २.४७"
+  },
+  {
+    "text": "जो हुआ, अच्छा हुआ। जो हो रहा है, अच्छा हो रहा है। जो होगा, वह भी अच्छा होगा।",
+    "author": "भगवद्गीता"
+  },
+  {
+    "text": "मनुष्य अपने विश्वास से निर्मित होता है। जैसा वह विश्वास करता है, वैसा वह बन जाता है।",
+    "author": "भगवद्गीता — १७.३"
+  },
+  {
+    "text": "आत्मा न कभी जन्म लेती है, न मरती है। यह शाश्वत, अजर और अमर है।",
+    "author": "भगवद्गीता — २.२०"
+  },
+  {
+    "text": "ध्यान से ज्ञान आता है, ध्यान की कमी से अज्ञान। इसलिए जानो कि तुम्हें किस मार्ग पर आगे बढ़ना है।",
+    "author": "भगवद्गीता — २.६६"
+  },
+  {
+    "text": "योग कर्मसु कौशलम् — कुशलता से किया गया कर्म ही योग है।",
+    "author": "भगवद्गीता — २.५०"
+  },
+  {
+    "text": "जो मन को वश में कर लेता है, उसके लिए मन ही परम मित्र है। जो नहीं कर पाता, उसके लिए मन ही शत्रु बन जाता है।",
+    "author": "भगवद्गीता — ६.६"
+  },
+  {
+    "text": "खुद को जीतना ही सबसे बड़ी जीत है।",
+    "author": "भगवद्गीता"
+  },
+  {
+    "text": "श्रद्धावान लभते ज्ञानम् — श्रद्धा रखने वाला व्यक्ति ज्ञान प्राप्त करता है।",
+    "author": "भगवद्गीता — ४.३९"
+  },
+  {
+    "text": "दुःख में सुमिरन सब करें, सुख में करे न कोय। जो सुख में सुमिरन करे, दुःख काहे को होय।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय। जो दिल खोजा आपना, मुझसे बुरा न कोय।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "काल करे सो आज कर, आज करे सो अब। पल में प्रलय होएगी, बहुरि करेगा कब।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "माटी कहे कुम्हार से, तू क्या रौंदे मोहि। एक दिन ऐसा आएगा, मैं रौंदूंगी तोहि।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "पोथी पढ़ि पढ़ि जग मुआ, पंडित भया न कोय। ढाई आखर प्रेम का, पढ़े सो पंडित होय।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "जाति न पूछो साधु की, पूछ लीजिए ज्ञान। मोल करो तलवार का, पड़ा रहन दो म्यान।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "साँच बराबर तप नहीं, झूठ बराबर पाप। जाके हृदय साँच है, ताके हृदय आप।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "तिनका कबहुँ न निंदिए, जो पाँव तले होय। कबहुँ उड़ि आँखिन पड़े, तो पीर घनेरी होय।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "मन के हारे हार है, मन के जीते जीत। पारब्रह्म को पाइए, मन ही की परतीत।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "धीरे धीरे रे मना, धीरे सब कुछ होय। माली सींचे सौ घड़ा, ऋतु आए फल होय।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "अति का भला न बोलना, अति की भली न चूप। अति का भला न बरसना, अति की भली न धूप।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "रात गँवाई सोय के, दिवस गँवाया खाय। हीरा जनम अमोल था, कौड़ी बदले जाय।।",
+    "author": "कबीरदास"
+  },
+  {
+    "text": "जाकी रही भावना जैसी, प्रभु मूरत देखी तिन तैसी।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "सुखी मीन जहाँ नीर अगाधा, जिमि हरि-भक्त जहाँ साधु-साधा।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "बिनु सत्संग विवेक न होई, राम कृपा बिनु सुलभ न सोई।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "सकल पदारथ हैं जग माहीं, करमहीन नर पावत नाहीं।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "नाम लेत भव सिंधु सुखाहीं, करहुँ विचार सुजन मन माहीं।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "धीरज, धर्म, मित्र अरु नारी। आपद काल परखिए चारी।।",
+    "author": "गोस्वामी तुलसीदास — रामचरितमानस"
+  },
+  {
+    "text": "सांसारिक दुखों की ओषधि एकमात्र राम-नाम है।",
+    "author": "गोस्वामी तुलसीदास"
+  },
+  {
+    "text": "हज़ारों ख्वाहिशें ऐसी कि हर ख्वाहिश पे दम निकले, बहुत निकले मेरे अरमान, लेकिन फिर भी कम निकले।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "जब तक दिल में दम है, जाम का दौर चलता रहेगा।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "मैं उनका हूँ, वो मेरे हैं — यही अफ़साना मेरा है।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "इश्क पर ज़ोर नहीं, है यह वो आतश ग़ालिब। जो लगाए न लगे और बुझाए न बुझे।।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "दिल नादाँ तुझे हुआ क्या है? आखिर इस दर्द की दवा क्या है?",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "हुई मुद्दत कि ग़ालिब मर गया पर याद आता है। वो हर इक बात पर कहना कि यूँ होता तो क्या होता।।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "बाज़ीचा-ए-अत्फ़ाल है दुनिया मेरे आगे, होता है शब-ओ-रोज़ तमाशा मेरे आगे।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "रंज से ख़ूगर हुआ इन्सान तो मिट जाता है रंज। मुश्किलें मुझ पर पड़ीं इतनी कि आसाँ हो गयीं।।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "न था कुछ तो ख़ुदा था, कुछ न होता तो ख़ुदा होता। डुबोया मुझको होने ने, न होता मैं तो क्या होता।।",
+    "author": "मिर्ज़ा ग़ालिब"
+  },
+  {
+    "text": "रहिमन धागा प्रेम का, मत तोड़ो चटकाय। टूटे से फिर ना जुड़े, जुड़े गाँठ पड़ जाय।।",
+    "author": "रहीमदास"
+  },
+  {
+    "text": "बड़े काम ओछे करहिं, तो न बड़ाई होय। ज्यों रहीम हनुमंत को, गिरिधर कहत न कोय।।",
+    "author": "रहीमदास"
+  },
+  {
+    "text": "जो रहीम उत्तम प्रकृति, का करि सकत कुसंग। चंदन विष व्यापत नहीं, लपटे रहत भुजंग।।",
+    "author": "रहीमदास"
+  },
+  {
+    "text": "एकै साधे सब सधे, सब साधे सब जाय। रहिमन मूलहिं सींचिबो, फूलहिं फलहिं अघाय।।",
+    "author": "रहीमदास"
+  },
+  {
+    "text": "खीरा सिर ते काटिए, मलियत नमक लगाय। रहिमन करुए मुखन को, चहिए यही सजाय।।",
+    "author": "रहीमदास"
+  },
+  {
+    "text": "शिक्षा सबसे अच्छी मित्र है। एक शिक्षित व्यक्ति हर जगह सम्मान पाता है।",
+    "author": "चाणक्य — अर्थशास्त्र"
+  },
+  {
+    "text": "पहले पाँच वर्ष बच्चे को प्यार से, फिर दस वर्ष अनुशासन से, और सोलह वर्ष की आयु में मित्र की तरह पालें।",
+    "author": "चाणक्य — नीतिशास्त्र"
+  },
+  {
+    "text": "व्यक्ति अकेले पैदा होता है और अकेले मर जाता है। वह अकेले ही अपने कर्मों का अनुभव करता है — अच्छे या बुरे।",
+    "author": "चाणक्य"
+  },
+  {
+    "text": "जो व्यक्ति अपने लक्ष्य पर केंद्रित रहता है, उसके लिए कोई बाधा नहीं होती।",
+    "author": "चाणक्य"
+  },
+  {
+    "text": "कोई भी काम शुरू करने से पहले तीन सवाल खुद से पूछो — मैं यह क्यों कर रहा हूँ? इसका परिणाम क्या होगा? क्या मैं सफल होऊँगा?",
+    "author": "चाणक्य"
+  },
+  {
+    "text": "समय और चींटी का इंतज़ार कोई नहीं कर सकता।",
+    "author": "चाणक्य"
+  },
+  {
+    "text": "जब तक दुश्मन की कमजोरी न जानो, शांति बनाए रखो।",
+    "author": "चाणक्य — अर्थशास्त्र"
+  },
+  {
+    "text": "उठो, जागो और तब तक मत रुको जब तक लक्ष्य की प्राप्ति न हो जाए।",
+    "author": "स्वामी विवेकानंद"
+  },
+  {
+    "text": "शक्ति ही जीवन है, कमज़ोरी ही मृत्यु है।",
+    "author": "स्वामी विवेकानंद"
+  },
+  {
+    "text": "खुद पर विश्वास रखो। सारी शक्ति तुम्हारे भीतर है।",
+    "author": "स्वामी विवेकानंद"
+  },
+  {
+    "text": "ब्रह्मांड की सारी शक्तियाँ पहले से हमारी हैं। वो हमीं हैं जो अपनी आँखों पर हाथ रख लेते हैं और फिर रोते हैं कि कितना अँधेरा है।",
+    "author": "स्वामी विवेकानंद"
+  },
+  {
+    "text": "जो आग दूसरों को गर्मी देती है, उसमें जलने की ताकत भी होती है।",
+    "author": "स्वामी विवेकानंद"
+  },
+  {
+    "text": "जो बीत गई सो बात गई, जीवन में एक सितारा था, माना वह बेहद प्यारा था। वह डूब गया तो डूब गया।",
+    "author": "हरिवंशराय बच्चन"
+  },
+  {
+    "text": "मन का हो तो अच्छा, न हो तो और भी अच्छा।",
+    "author": "हरिवंशराय बच्चन"
+  },
+  {
+    "text": "जीवन की आपाधापी में कब वक़्त मिला, कुछ देर कहीं पर बैठ कभी यह सोच सकूँ।",
+    "author": "हरिवंशराय बच्चन"
+  },
+  {
+    "text": "लहरों से डरकर नौका पार नहीं होती, कोशिश करने वालों की कभी हार नहीं होती।",
+    "author": "सोहनलाल द्विवेदी"
+  },
+  {
+    "text": "जो हो चुका है उस पर आँसू बहाना छोड़ो, जो आने वाला है उसे सपनों में सँजो लो।",
+    "author": "माखनलाल चतुर्वेदी"
+  },
+  {
+    "text": "सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु। मा कश्चित् दुःखभाग् भवेत्।।",
+    "author": "बृहदारण्यक उपनिषद् — प्राचीन प्रार्थना"
+  },
+  {
+    "text": "तमसो मा ज्योतिर्गमय। मृत्योर्मामृतं गमय।",
+    "author": "बृहदारण्यक उपनिषद् — १.३.२८"
+  },
+  {
+    "text": "अहं ब्रह्मास्मि — मैं ब्रह्म हूँ।",
+    "author": "बृहदारण्यक उपनिषद् — १.४.१०"
+  },
+  {
+    "text": "तत् त्वम् असि — वह तुम हो।",
+    "author": "छान्दोग्य उपनिषद् — ६.८.७"
+  },
+  {
+    "text": "वसुधैव कुटुम्बकम् — सारी पृथ्वी एक परिवार है।",
+    "author": "महोपनिषद् — ६.७२"
+  },
+  {
+    "text": "यत्र नार्यस्तु पूज्यन्ते, रमन्ते तत्र देवताः। — जहाँ नारी की पूजा होती है, वहाँ देवता निवास करते हैं।",
+    "author": "मनुस्मृति — ३.५६"
+  },
+  {
+    "text": "विद्या ददाति विनयम् — ज्ञान विनम्रता देता है।",
+    "author": "हितोपदेश"
+  },
+  {
+    "text": "उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः।।",
+    "author": "हितोपदेश — सुप्त सिंह को शिकार नहीं मिलता"
+  },
+  {
+    "text": "वृक्ष हों भले खड़े,\nहों घने हों बड़े,\nएक पत्र छांह भी,\nमांग मत, मांग मत, मांग मत,\nअग्निपथ अग्निपथ अग्निपथ।",
+    "author": "हरिवंशराय बच्चन — अग्निपथ (प्रथम पद)"
+  },
+  {
+    "text": "तू न थकेगा कभी,\nतू न रुकेगा कभी,\nतू न मुड़ेगा कभी,\nकर शपथ, कर शपथ, कर शपथ,\nअग्निपथ अग्निपथ अग्निपथ।",
+    "author": "हरिवंशराय बच्चन — अग्निपथ (द्वितीय पद)"
+  },
+  {
+    "text": "यह महान दृश्य है,\nचल रहा मनुष्य है,\nअश्रु श्वेत रक्त से,\nलथपथ लथपथ लथपथ,\nअग्निपथ अग्निपथ अग्निपथ।",
+    "author": "हरिवंशराय बच्चन — अग्निपथ (तृतीय पद)"
+  },
+  {
+    "text": "When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It's when... they are forgotten.",
+    "author": "Dr. Hiriluk (One Piece)"
+  },
+  {
+    "text": "I don't want to conquer anything. I just think that the guy with the most freedom in this whole ocean... is the Pirate King!",
+    "author": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "text": "If you don't risk your life, you can't create a future. Right?",
+    "author": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "text": "A wound that'd make an ordinary man unconscious... I won't lose to it. A wound that would kill an ordinary person... I won't lose to it! To face one who is extraordinary, Hawk Eyes... I can't allow myself to be ordinary!",
+    "author": "Roronoa Zoro (One Piece)"
+  },
+  {
+    "text": "Our motto on our hard days of training: 'To be stronger than yesterday.' If I have to I'll be stronger than a half day ago, even a minute ago.",
+    "author": "Rock Lee (Naruto)"
+  },
+  {
+    "text": "A genius, huh? What does that mean? 'Genius'? So I was not born with a whole lot of natural talent, not gifted like Neji... but I work hard and I never give up! That is my gift; that is my ninja way!",
+    "author": "Rock Lee (Naruto)"
+  },
+  {
+    "text": "You're right, all efforts are pointless... If you don't believe in yourself.",
+    "author": "Might Guy (Naruto)"
+  },
+  {
+    "text": "You have the gift of perseverance, and that's what makes you a genius too!",
+    "author": "Might Guy (Naruto)"
+  },
+  {
+    "text": "Don't let anything stir you up the path you have drawn for yourself! Forge ahead in the end! Stick to it Lee! Make me proud! Be everything you can be!",
+    "author": "Might Guy (Naruto)"
+  },
+  {
+    "text": "If you believe in your dreams, I will prove to you, that you can achieve your dreams just by working hard.",
+    "author": "Rock Lee (Naruto)"
+  },
+  {
+    "text": "What are you doing? Why do you run Ichigo? You still have not called me. Face forward, Ichigo. You should be able to hear it now. That which blocks your ears is worthless fear. The enemy is one, you are one. What is there to fear? Cast off your fear. Look forward! Go forward! Never stand still. Retreat and you will age. Hesitate and you will die. Shout... my name is... ZANGETSU!",
+    "author": "Zangetsu (Bleach)"
+  },
+  {
+    "text": "A lesson without pain is meaningless. For you cannot gain anything without sacrificing something else in return, but once you have overcome it and made it your own, you will gain an irreplaceable fullmetal heart.",
+    "author": "Edward Elric (Fullmetal Alchemist)"
+  },
+  {
+    "text": "It's a cruel and random world, but the chaos is all so beautiful.",
+    "author": "Roy Mustang (Fullmetal Alchemist)"
+  },
+  {
+    "text": "Even when our eyes are closed, there's a whole world that exists outside ourselves and our dreams.",
+    "author": "Alphonse Elric (Fullmetal Alchemist)"
+  },
+  {
+    "text": "Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.",
+    "author": "Edward Elric (Fullmetal Alchemist)"
+  },
+  {
+    "text": "If you can't find a door, make your own.",
+    "author": "Izumi Curtis (Fullmetal Alchemist)"
+  },
+  {
+    "text": "If you win, you live. If you lose, you die. If you don't fight, you can't win!",
+    "author": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "text": "Someone who can't sacrifice anything, can't change anything. To defeat a monster, you must be willing to throw aside your humanity and all that makes you human.",
+    "author": "Armin Arlert (Attack on Titan)"
+  },
+  {
+    "text": "The difference between your decision and ours is experience. But you don't have to rely on that. Choose. Believe in yourself, or believe in the Survey Corps and me. I don't know the answer. I never have. Whether you trust in your own strength or trust in the choices made by reliable comrades. No one knows what the outcome will be.",
+    "author": "Levi Ackerman (Attack on Titan)"
+  },
+  {
+    "text": "If you begin to regret, you'll dull your future decisions and let others make your choices for you. All that's left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision.",
+    "author": "Erwin Smith (Attack on Titan)"
+  },
+  {
+    "text": "This world is cruel. And yet, so beautiful.",
+    "author": "Mikasa Ackerman (Attack on Titan)"
+  },
+  {
+    "text": "Being able to cry for his companion. I was thinking you couldn't cry, nor did you have a heart. But in that case why, even a little bit, don't you share that feeling with all the people you kill!",
+    "author": "Gon Freecss (Hunter x Hunter)"
+  },
+  {
+    "text": "When I say it doesn't hurt me, that means I can bear it.",
+    "author": "Killua Zoldyck (Hunter x Hunter)"
+  },
+  {
+    "text": "You believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotion, and if the body achieves the correct form, it becomes gratitude.",
+    "author": "Isaac Netero (Hunter x Hunter)"
+  },
+  {
+    "text": "It seems you have something you want to protect. When that is threatened, your true strength will show itself.",
+    "author": "Meruem (Hunter x Hunter)"
+  },
+  {
+    "text": "Whether you win or lose, you can always come out ahead by surpassing yourself.",
+    "author": "All Might (My Hero Academia)"
+  },
+  {
+    "text": "A hero is someone who never gives up, who keeps on fighting till the end!",
+    "author": "All Might (My Hero Academia)"
+  },
+  {
+    "text": "I'll do it. I'll become a hero!",
+    "author": "Shoto Todoroki (My Hero Academia)"
+  },
+  {
+    "text": "Meddling when you don't need to is the essence of being a hero.",
+    "author": "Tenya Iida (My Hero Academia)"
+  },
+  {
+    "text": "Keep your heart burning, and do your best. Push yourself to the limit!",
+    "author": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "text": "Those who regret their own actions, I will not trample on their souls. Because demons were once human, too. Just like me, they were human too.",
+    "author": "Giyu Tomioka (Demon Slayer)"
+  },
+  {
+    "text": "Growing old and dying is what gives meaning and beauty to the fleeting span of a human life. It's precisely because we age and die that our lives have value and nobility.",
+    "author": "Kyojuro Rengoku (Demon Slayer)"
+  },
+  {
+    "text": "Set your heart ablaze!",
+    "author": "Kyojuro Rengoku (Demon Slayer)"
+  },
+  {
+    "text": "No matter how many people you may lose, you have no choice but to go on living. No matter how devastating the blows may be.",
+    "author": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "text": "Push through the pain, giving up hurts more.",
+    "author": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "text": "It is not a sin to fight for the right cause. There are those who words alone will not reach.",
+    "author": "Master Roshi (Dragon Ball Z)"
+  },
+  {
+    "text": "There are many types of monsters in this world. Monsters who will not show themselves and who cause trouble. Monsters who abduct children. Monsters who devour dreams. Monsters who suck blood. And monsters who always tell lies.",
+    "author": "L Lawliet (Death Note)"
+  },
+  {
+    "text": "I'll take a potato chip and eat it!",
+    "author": "Light Yagami (Death Note)"
+  },
+  {
+    "text": "If you use your head, you won't get fat even if you eat sweets.",
+    "author": "L Lawliet (Death Note)"
+  },
+  {
+    "text": "It's not the world that's messed up; it's those of us in it. Yes, some ghouls walk a path that leaves sorrow in their wake, but just like humans, we can choose a different path altogether.",
+    "author": "Ken Kaneki (Tokyo Ghoul)"
+  },
+  {
+    "text": "Sometimes good people make bad choices. It doesn't mean they are bad people. It means they're human.",
+    "author": "Touka Kirishima (Tokyo Ghoul)"
+  },
+  {
+    "text": "If you were to write a story with me in the lead role, it would certainly be a tragedy.",
+    "author": "Ken Kaneki (Tokyo Ghoul)"
+  },
+  {
+    "text": "The only ones who should kill are those who are prepared to be killed.",
+    "author": "Lelouch Lamperouge (Code Geass)"
+  },
+  {
+    "text": "False tears bring pain to those around you. A false smile brings pain to oneself.",
+    "author": "Lelouch Lamperouge (Code Geass)"
+  },
+  {
+    "text": "You can't change the world without getting your hands dirty.",
+    "author": "C.C. (Code Geass)"
+  },
+  {
+    "text": "Whatever happens, happens.",
+    "author": "Spike Spiegel (Cowboy Bebop)"
+  },
+  {
+    "text": "The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does?",
+    "author": "Spike Spiegel (Cowboy Bebop)"
+  },
+  {
+    "text": "Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don't desire, but they're inevitable, we have to face them. It's what being human is all about.",
+    "author": "Jet Black (Cowboy Bebop)"
+  },
+  {
+    "text": "If you're going to kill me, then do it. Otherwise, get out of my way.",
+    "author": "Jubei Kibagami (Ninja Scroll)"
+  },
+  {
+    "text": "I'm just a wanderer. I go where the wind takes me.",
+    "author": "Jubei Kibagami (Ninja Scroll)"
+  },
+  {
+    "text": "Even a stone Buddha has feelings.",
+    "author": "Dakuan (Ninja Scroll)"
+  },
+  {
+    "text": "I am a tool of the Koga ninja clan. My life has no other purpose.",
+    "author": "Kagero (Ninja Scroll)"
+  },
+  {
+    "text": "The strong survive and the weak perish. That's the law of nature.",
+    "author": "Gemma Himuro (Ninja Scroll)"
+  },
+  {
+    "text": "I've seen enough killing. I just want to be left alone.",
+    "author": "Jubei Kibagami (Ninja Scroll)"
+  },
+  {
+    "text": "Even if my body is poisoned, my heart remains pure.",
+    "author": "Kagero (Ninja Scroll)"
+  },
+  {
+    "text": "In this world, there are things that cannot be explained by reason alone.",
+    "author": "Dakuan (Ninja Scroll)"
+  },
+  {
+    "text": "A ninja's life is filled with blood and death. There's no glory in it.",
+    "author": "Jubei Kibagami (Ninja Scroll)"
+  },
+  {
+    "text": "Immortality is not a gift, but a curse that binds you to this world.",
+    "author": "Gemma Himuro (Ninja Scroll)"
+  },
+  {
+    "text": "I'd rather trust and regret than doubt and regret.",
+    "author": "Kirito (Sword Art Online)"
+  },
+  {
+    "text": "Real pain is the pain of not knowing what to do. Real pain is the pain of not knowing what's right.",
+    "author": "Asuna (Sword Art Online)"
+  },
+  {
+    "text": "People's feelings are memories that transcend time.",
+    "author": "Rintaro Okabe (Steins;Gate)"
+  },
+  {
+    "text": "Time is passing so quickly. Right now, I feel like complaining to Einstein. Whether time is slow or fast depends on perception. Relativity theory is so romantic. And so sad.",
+    "author": "Kurisu Makise (Steins;Gate)"
+  },
+  {
+    "text": "The opposite of love isn't hate, it's apathy.",
+    "author": "Kyoko Hoin (Kodomo no Jikan)"
+  },
+  {
+    "text": "I'm just a guy who's a hero for fun.",
+    "author": "Saitama (One Punch Man)"
+  },
+  {
+    "text": "If everyone is not special, maybe you can be what you want to be.",
+    "author": "Mob (Mob Psycho 100)"
+  },
+  {
+    "text": "Being the best decoy ever is as cool as being the ace.",
+    "author": "Shoyo Hinata (Haikyu!!)"
+  },
+  {
+    "text": "Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully.",
+    "author": "Koro-Sensei (Assassination Classroom)"
+  },
+  {
+    "text": "We make a living by what we get, but we make a life by what we give.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The only thing worse than being blind is having sight but no vision.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Alone we can do so little; together we can do so much.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Whatever you are, be a good one.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "There is the heat of Love, the pulsing rush of Longing, the lover's whisper, irresistible—magic to make the sanest man go mad.",
+    "author": "Homer (The Iliad)"
+  },
+  {
+    "text": "Of all creatures that breathe and move upon the earth, nothing is bred that is weaker than man.",
+    "author": "Homer (The Odyssey)"
+  },
+  {
+    "text": "There is nothing more admirable than when two people who see eye to eye keep house as man and wife, confounding their enemies and delighting their friends.",
+    "author": "Homer (The Odyssey)"
+  },
+  {
+    "text": "All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil. The only crime is pride.",
+    "author": "Sophocles (Antigone)"
+  },
+  {
+    "text": "How dreadful knowledge of the truth can be when there's no help in truth!",
+    "author": "Sophocles (Oedipus Rex)"
+  },
+  {
+    "text": "He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.",
+    "author": "Aeschylus (Agamemnon)"
+  },
+  {
+    "text": "There is no worse enemy than a former friend.",
+    "author": "Euripides (Medea)"
+  },
+  {
+    "text": "The price good men pay for indifference to public affairs is to be ruled by evil men.",
+    "author": "Plato (The Republic)"
+  },
+  {
+    "text": "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+    "author": "Epicurus"
+  },
+  {
+    "text": "The contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.",
+    "author": "Bhagavad Gita (Chapter 2, Verse 14)"
+  },
+  {
+    "text": "Wherever there is Krishna, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality.",
+    "author": "Bhagavad Gita (Chapter 18, Verse 78)"
+  },
+  {
+    "text": "Arise! Awake! Approach the great and learn. Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross.",
+    "author": "Katha Upanishad"
+  },
+  {
+    "text": "Tat Tvam Asi (Thou art That)—You are the ultimate reality.",
+    "author": "Chandogya Upanishad"
+  },
+  {
+    "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+    "author": "Rumi"
+  },
+  {
+    "text": "You can't cross the sea merely by standing and staring at the water.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "Where the mind is without fear and the head is held high; Where knowledge is free.",
+    "author": "Rabindranath Tagore (Gitanjali)"
+  },
+  {
+    "text": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "Two roads diverged in a wood, and I—I took the one less traveled by, and that has made all the difference.",
+    "author": "Robert Frost (The Road Not Taken)"
+  },
+  {
+    "text": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "You may trod me in the very dirt, but still, like dust, I'll rise.",
+    "author": "Maya Angelou (Still I Rise)"
+  },
+  {
+    "text": "Does my sassiness upset you? Why are you beset with gloom? 'Cause I walk like I've got oil wells pumping in my living room.",
+    "author": "Maya Angelou (Still I Rise)"
+  },
+  {
+    "text": "I am the master of my fate, I am the captain of my soul.",
+    "author": "William Ernest Henley (Invictus)"
+  },
+  {
+    "text": "Out of the night that covers me, black as the pit from pole to pole, I thank whatever gods may be for my unconquerable soul.",
+    "author": "William Ernest Henley (Invictus)"
+  },
+  {
+    "text": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "author": "Dylan Thomas"
+  },
+  {
+    "text": "The world is too much with us; late and soon, getting and spending, we lay waste our powers.",
+    "author": "William Wordsworth"
+  },
+  {
+    "text": "For oft, when on my couch I lie in vacant or in pensive mood, they flash upon that inward eye which is the bliss of solitude.",
+    "author": "William Wordsworth (I Wandered Lonely as a Cloud)"
+  },
+  {
+    "text": "Hope is the thing with feathers that perches in the soul—and sings the tunes without the words—and never stops at all.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "text": "Forever is composed of nows.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "text": "Do I dare disturb the universe?",
+    "author": "T.S. Eliot (The Love Song of J. Alfred Prufrock)"
+  },
+  {
+    "text": "Only those who will risk going too far can possibly find out how far one can go.",
+    "author": "T.S. Eliot"
+  },
+  {
+    "text": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+    "author": "Langston Hughes (Dreams)"
+  },
+  {
+    "text": "Life for me ain't been no crystal stair.",
+    "author": "Langston Hughes (Mother to Son)"
+  },
+  {
+    "text": "Do I contradict myself? Very well then I contradict myself, (I am large, I contain multitudes.)",
+    "author": "Walt Whitman (Song of Myself)"
+  },
+  {
+    "text": "That you are here—that life exists and identity, that the powerful play goes on, and you may contribute a verse.",
+    "author": "Walt Whitman (O Me! O Life!)"
+  },
+  {
+    "text": "If you can meet with Triumph and Disaster and treat those two impostors just the same... yours is the Earth and everything that's in it.",
+    "author": "Rudyard Kipling (If)"
+  },
+  {
+    "text": "To strive, to seek, to find, and not to yield.",
+    "author": "Alfred, Lord Tennyson (Ulysses)"
+  },
+  {
+    "text": "'Tis better to have loved and lost than never to have loved at all.",
+    "author": "Alfred, Lord Tennyson"
+  },
+  {
+    "text": "All the world's a stage, and all the men and women merely players.",
+    "author": "William Shakespeare (As You Like It)"
+  },
+  {
+    "text": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
+    "author": "William Shakespeare (The Tempest)"
+  },
+  {
+    "text": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others.",
+    "author": "Fyodor Dostoevsky (The Brothers Karamazov)"
+  },
+  {
+    "text": "Pain and suffering are always inevitable for a large intelligence and a deep heart.",
+    "author": "Fyodor Dostoevsky (Crime and Punishment)"
+  },
+  {
+    "text": "The mystery of human existence lies not in just staying alive, but in finding something to live for.",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "text": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "author": "Leo Tolstoy (Anna Karenina)"
+  },
+  {
+    "text": "We can know only that we know nothing. And that is the highest degree of human wisdom.",
+    "author": "Leo Tolstoy (War and Peace)"
+  },
+  {
+    "text": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "text": "Even the darkest night will end and the sun will rise.",
+    "author": "Victor Hugo (Les Misérables)"
+  },
+  {
+    "text": "To love another person is to see the face of God.",
+    "author": "Victor Hugo (Les Misérables)"
+  },
+  {
+    "text": "Music expresses that which cannot be said and on which it is impossible to be silent.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "It was the best of times, it was the worst of times.",
+    "author": "Charles Dickens (A Tale of Two Cities)"
+  },
+  {
+    "text": "Take nothing on its looks; take everything on evidence. There's no better rule.",
+    "author": "Charles Dickens (Great Expectations)"
+  },
+  {
+    "text": "It is not down on any map; true places never are.",
+    "author": "Herman Melville (Moby-Dick)"
+  },
+  {
+    "text": "I try all things, I achieve what I can.",
+    "author": "Herman Melville (Moby-Dick)"
+  },
+  {
+    "text": "A book must be the axe for the frozen sea within us.",
+    "author": "Franz Kafka"
+  },
+  {
+    "text": "Paths are made by walking.",
+    "author": "Franz Kafka"
+  },
+  {
+    "text": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+    "author": "Albert Camus (The Myth of Sisyphus)"
+  },
+  {
+    "text": "I may not have been sure about what really did interest me, but I was absolutely sure about what didn't.",
+    "author": "Albert Camus (The Stranger)"
+  },
+  {
+    "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "If you want to keep a secret, you must also hide it from yourself.",
+    "author": "George Orwell (1984)"
+  },
+  {
+    "text": "All animals are equal, but some animals are more equal than others.",
+    "author": "George Orwell (Animal Farm)"
+  },
+  {
+    "text": "There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.",
+    "author": "Jane Austen (Pride and Prejudice)"
+  },
+  {
+    "text": "We are all fools in love.",
+    "author": "Jane Austen (Persuasion)"
+  },
+  {
+    "text": "For what it's worth: it's never too late or, in my case, too early to be whoever you want to be.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "text": "But man is not made for defeat. A man can be destroyed but not defeated.",
+    "author": "Ernest Hemingway (The Old Man and the Sea)"
+  },
+  {
+    "text": "The world breaks everyone, and afterward, some are strong at the broken places.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "text": "A man of genius makes no mistakes. His errors are volitional and are the portals of discovery.",
+    "author": "James Joyce (Ulysses)"
+  },
+  {
+    "text": "You cannot find peace by avoiding life.",
+    "author": "Virginia Woolf"
+  },
+  {
+    "text": "She had the perpetual sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day.",
+    "author": "Virginia Woolf (Mrs. Dalloway)"
+  },
+  {
+    "text": "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop the people who don't want it badly enough. They're there to stop the other people.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "We cannot change the cards we are dealt, just how we play the hand.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Experience is what you get when you didn't get what you wanted. And experience is often the most valuable thing you have to offer.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "It's not about how to achieve your dreams, it's about how to lead your life. If you lead your life the right way, the karma will take care of itself, the dreams will come to you.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Never lose the childlike wonder. Show gratitude. Don't complain; just work harder. Never give up.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "When you're screwing up and nobody says anything to you anymore, that means they've given up on you.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "The key question to keep asking is, Are you spending your time on the right things? Because time is all you have.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Proper apologies have three parts: 1) What I did was wrong. 2) I'm sorry that I hurt you. 3) How do I make it better? It's the third part that people tend to forget.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Be good at something; it makes you valuable. Have something to bring to the table, because that will make you more welcome.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "If you wait long enough, people will surprise and impress you.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "No job is beneath you. You ought to be thrilled you got a job in the mailroom. And when you get there, here's what you do: Be really great at sorting mail.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "I've always believed that if you took one-tenth the energy you put into complaining and applied it to solving the problem, you'd be surprised by how well things can work out.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "When you see yourself doing something badly and nobody's bothering to tell you anymore, that's a bad place to be. You may not want to hear it, but your critics are often the ones telling you they still love you and care about you, and want to make you better.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Another way to be prepared is to think negatively. Yes, I'm a great optimist. But, when trying to make a decision, I often think of the worst-case scenario. I call it 'the eaten by wolves factor.' If I do something, what's the most terrible thing that could happen? Would I be eaten by wolves? One thing that makes it possible to be an optimist is if you have a contingency plan for when all hell breaks out.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "You can't get there alone. People have to help you, and I do believe in karma. I believe in paybacks. You get people to help you by telling the truth. Being earnest. I'll take an earnest person over a hip person every day, because hip is short-term. Earnest is long-term.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "Whether you think you can or can't, you're right.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "I don't believe in the no-win scenario.",
+    "author": "Randy Pausch"
+  },
+  {
+    "text": "In a dark place we find ourselves, and a little more knowledge lights our way.",
+    "author": "Yoda (Star Wars)"
+  },
+  {
+    "text": "Your eyes can deceive you. Don't trust them.",
+    "author": "Obi-Wan Kenobi (Star Wars)"
+  },
+  {
+    "text": "Never give up on your dream, fight your hardest for it. Don't ever let somebody tell you you can't do something, not even me. Alright? You dream, you gotta protect it. People can't do something themselves, they wanna tell you you can't do it. If you want something, go get it. Period.",
+    "author": "Chris Gardner (The Pursuit of Happyness)"
+  },
+  {
+    "text": "Stupid is as stupid does.",
+    "author": "Forrest Gump"
+  },
+  {
+    "text": "You have to do the best with what God gave you.",
+    "author": "Mrs. Gump (Forrest Gump)"
+  },
+  {
+    "text": "Why do we fall? So we can learn to pick ourselves up.",
+    "author": "Alfred Pennyworth (The Dark Knight)"
+  },
+  {
+    "text": "The night is darkest just before the dawn. And I promise you, the dawn is coming.",
+    "author": "Harvey Dent (The Dark Knight)"
+  },
+  {
+    "text": "I won't kill you, but I don't have to save you.",
+    "author": "Bruce Wayne (The Dark Knight)"
+  },
+  {
+    "text": "What is real? How do you define real? If you're talking about what you can feel, what you can smell, what you can taste and see, then real is simply electrical signals interpreted by your brain.",
+    "author": "Morpheus (The Matrix)"
+  },
+  {
+    "text": "Know thyself.",
+    "author": "The Oracle (The Matrix)"
+  },
+  {
+    "text": "There's some good in this world, Mr. Frodo, and it's worth fighting for.",
+    "author": "Samwise Gamgee (The Lord of the Rings)"
+  },
+  {
+    "text": "So much death. What can men do against such reckless hate?",
+    "author": "Theoden (The Lord of the Rings)"
+  },
+  {
+    "text": "You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you can't be sure.",
+    "author": "Cobb (Inception)"
+  },
+  {
+    "text": "Remember who you are. You are my son, and the one true king.",
+    "author": "Mufasa (The Lion King)"
+  },
+  {
+    "text": "You gotta put your behind in your past.",
+    "author": "Timon (The Lion King)"
+  },
+  {
+    "text": "I'm gonna make him an offer he can't refuse.",
+    "author": "Don Vito Corleone (The Godfather)"
+  },
+  {
+    "text": "You don't get to 500 million friends without making a few enemies.",
+    "author": "Mark Zuckerberg (The Social Network)"
+  },
+  {
+    "text": "People should not be afraid of their governments. Governments should be afraid of their people.",
+    "author": "V (V for Vendetta)"
+  },
+  {
+    "text": "Wax on, wax off.",
+    "author": "Mr. Miyagi (The Karate Kid)"
+  },
+  {
+    "text": "No such thing as bad student, only bad teacher.",
+    "author": "Mr. Miyagi (The Karate Kid)"
+  },
+  {
+    "text": "After a while, you learn to ignore the names people call you and just trust who you are.",
+    "author": "Shrek"
+  },
+  {
+    "text": "Anyone can cook, but only the fearless can be great.",
+    "author": "Gusteau (Ratatouille)"
+  },
+  {
+    "text": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+    "author": "Master Oogway (Kung Fu Panda)"
+  },
+  {
+    "text": "What's wrong with death sir? What are we so mortally afraid of? Why can't we treat death with a certain amount of humanity and dignity, and decency, and God forbid, maybe even humor. Death is not the enemy gentlemen. If we're going to fight a disease, let's fight one of the most terrible diseases of all, indifference.",
+    "author": "Patch Adams"
+  },
+  {
+    "text": "I guess it's hard for people who are so used to things the way they are—even if they're bad—to change. 'Cause they kind of give up. And when they do, everybody kind of loses.",
+    "author": "Trevor McKinney (Pay It Forward)"
+  },
+  {
+    "text": "The horror, the horror.",
+    "author": "Colonel Kurtz (Apocalypse Now)"
+  },
+  {
+    "text": "Rosebud.",
+    "author": "Charles Foster Kane (Citizen Kane)"
+  },
+  {
+    "text": "Here's looking at you, kid.",
+    "author": "Rick Blaine (Casablanca)"
+  },
+  {
+    "text": "We'll always have Paris.",
+    "author": "Rick Blaine (Casablanca)"
+  },
+  {
+    "text": "Say hello to my little friend!",
+    "author": "Tony Montana (Scarface)"
+  },
+  {
+    "text": "The world is yours.",
+    "author": "Tony Montana (Scarface)"
+  },
+  {
+    "text": "I'll be back.",
+    "author": "The Terminator"
+  },
+  {
+    "text": "Houston, we have a problem.",
+    "author": "Jim Lovell (Apollo 13)"
+  },
+  {
+    "text": "Show me the money!",
+    "author": "Jerry Maguire"
+  },
+  {
+    "text": "You had me at hello.",
+    "author": "Dorothy Boyd (Jerry Maguire)"
+  },
+  {
+    "text": "You can't handle the truth!",
+    "author": "Colonel Jessup (A Few Good Men)"
+  },
+  {
+    "text": "You're gonna need a bigger boat.",
+    "author": "Chief Brody (Jaws)"
+  },
+  {
+    "text": "There's no place like home.",
+    "author": "Dorothy (The Wizard of Oz)"
+  },
+  {
+    "text": "After all, tomorrow is another day!",
+    "author": "Scarlett O'Hara (Gone with the Wind)"
+  },
+  {
+    "text": "If you build it, he will come.",
+    "author": "Voice (Field of Dreams)"
+  },
+  {
+    "text": "What we've got here is failure to communicate.",
+    "author": "Captain (Cool Hand Luke)"
+  },
+  {
+    "text": "Greed, for lack of a better word, is good.",
+    "author": "Gordon Gekko (Wall Street)"
+  },
+  {
+    "text": "You talkin' to me?",
+    "author": "Travis Bickle (Taxi Driver)"
+  },
+  {
+    "text": "I see dead people.",
+    "author": "Cole Sear (The Sixth Sense)"
+  },
+  {
+    "text": "I dropped out and trusted that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something—your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "I'm convinced that the only thing that kept me going was that I loved what I did. You've got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life's change agent. It clears out the old to make way for the new.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma—which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Stay Hungry. Stay Foolish.",
+    "author": "The Whole Earth Catalog"
+  }
+]
