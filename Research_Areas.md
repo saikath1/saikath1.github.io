@@ -32,8 +32,8 @@ By combining reliability modeling, empirical validation, and systems engineering
 
 ---
 
-## Vision for Incoming Ph.D. Students
-As a Ph.D. researcher in the **Secured Software Systems Lab**, you will help bridge the gap between *software reliability science* and *security assurance engineering*. You will conduct empirical studies to understand how software evolves and fails; design metrics and models that quantify reliability under uncertainty; and develop tools and frameworks that enhance the security and maintainability of real world systems.
+## Vision for Incoming  Students
+As a  researcher in the **Secured Software Systems Lab**, you will help bridge the gap between *software reliability science* and *security assurance engineering*. You will conduct empirical studies to understand how software evolves and fails; design metrics and models that quantify reliability under uncertainty; and develop tools and frameworks that enhance the security and maintainability of real world systems.
 
 Your research will be inherently interdisciplinary, integrating **empirical evidence**, **system modeling**, and **secure development practices** to build next-generation systems that are dependable by design and resilient by adaptation.
 

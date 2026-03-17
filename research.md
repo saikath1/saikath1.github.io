@@ -1,6 +1,6 @@
 # Research
 
-Welcome to **Software Systems Lab**.
+Welcome to **Secured Software Systems (S-Cube) Lab**.
 
 My research lies at the intersection of **software engineering**and **systems engineering**, with a focus on improving the  **quality** of software systems. I develop mathematical models, empirical methods, and system-level approaches applicable to domains like **software systems**.
 
@@ -10,7 +10,8 @@ This interdisciplinary work draws from:
 - Statistical modeling
 - Software Engineering
 - Systems engineering
-- 
+- Software Testing 
+- Software Security
 
 A key goal of the lab is to engage with a broad audience, fostering impact through both technical publications and cross-disciplinary collaborations.
 
@@ -38,6 +39,10 @@ For more details on my research, please refer to [PHM Research](https://saikath1
 
 ### Tradespace Exploration
 Evaluating design alternatives and trade-offs in complex systems to guide decision-making under uncertainty, especially in critical domains.
+
+---
+
+For a detailed overview of our research vision, thrusts, and relevant communities, see [Research Areas](#research-areas) below.
 
 ---
 *For more information or collaboration inquiries, feel free to reach out.*

@@ -34,6 +34,9 @@
   <section id="content">
     <p>Loading content...</p>
   </section>
+  <section id="research-areas">
+    <p>Loading research areas...</p>
+  </section>
   <footer>
     <p>&copy; 2026 Saikath Bhattacharya. All rights reserved.</p>
   </footer>
@@ -42,6 +45,11 @@
       .then(response => response.text())
       .then(text => {
         document.getElementById('content').innerHTML = marked.parse(text);
+      });
+    fetch('Research_Areas.md')
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('research-areas').innerHTML = marked.parse(text);
       });
   </script>
 </body>
