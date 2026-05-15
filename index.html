@@ -51,12 +51,31 @@
     }
 
     header {
-      background: linear-gradient(135deg, var(--primary-color) 0%, #34495e 100%);
+      background:
+        linear-gradient(135deg, rgba(44,62,80,0.82) 0%, rgba(52,73,94,0.82) 100%),
+        url('figures/bleeding-heart.jpg') center/cover no-repeat;
       padding: 20px 0;
       box-shadow: var(--shadow);
       z-index: 10;
       position: sticky;
       top: 0;
+    }
+
+    .flower-caption {
+      margin: 6px 20px 0 20px;
+      font-size: 0.72em;
+      color: rgba(255,255,255,0.75);
+      font-style: italic;
+      letter-spacing: 0.02em;
+    }
+
+    .flower-caption a {
+      color: #e8a0b4;
+      text-decoration: none;
+    }
+
+    .flower-caption a:hover {
+      text-decoration: underline;
     }
 
     header h1 {
@@ -237,6 +256,12 @@
       <a href="news.html">News</a>
       <a href="contact.html">Contact</a>
     </nav>
+    <p class="flower-caption">
+      🌸 <em>Asian Bleeding Heart</em> (<em>Lamprocapnos spectabilis</em>) &mdash; like the
+      <a href="https://heartbleed.com" target="_blank" rel="noopener">OpenSSL Heartbleed</a>
+      vulnerability (CVE-2014-0160), this flower&rsquo;s heart-shaped blooms hide a delicate
+      inner structure &mdash; a reminder that beauty and hidden fragility often coexist.
+    </p>
   </header>
 
   <div class="content-wrapper">

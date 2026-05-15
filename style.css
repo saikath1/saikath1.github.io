@@ -24,7 +24,9 @@ body {
 
 /* Header & Navigation */
 header {
-  background: linear-gradient(135deg, var(--primary-color) 0%, #34495e 100%);
+  background:
+    linear-gradient(135deg, rgba(44,62,80,0.82) 0%, rgba(52,73,94,0.82) 100%),
+    url('figures/bleeding-heart.jpg') center/cover no-repeat;
   color: #fff;
   padding: 20px 0;
   text-align: left;
@@ -32,6 +34,23 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
+}
+
+.flower-caption {
+  margin: 6px 20px 0 20px;
+  font-size: 0.72em;
+  color: rgba(255,255,255,0.75);
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+.flower-caption a {
+  color: #e8a0b4;
+  text-decoration: none;
+}
+
+.flower-caption a:hover {
+  text-decoration: underline;
 }
 
 header h1 {
